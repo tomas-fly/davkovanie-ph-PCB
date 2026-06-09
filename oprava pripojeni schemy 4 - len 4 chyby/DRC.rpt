@@ -1,0 +1,267 @@
+** Drc report for ph-verzion-01.kicad_pcb **
+** Created on 2026-06-04T12:38:48 **
+** Report includes: Errors, Warnings **
+
+** Found 58 DRC violations **
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(137.9000 mm, 101.0000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(137.9000 mm, 101.5000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(137.9000 mm, 101.5000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(137.9000 mm, 102.5000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(137.9000 mm, 102.5000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+    @(137.9000 mm, 103.0000 mm): Plôška 5 [/ORP_OUT] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(142.1000 mm, 103.0000 mm): Plôška 6 [unconnected-(U10-AIN2-Pad6)] z U10 na F.Cu
+    @(142.1000 mm, 102.5000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(142.1000 mm, 102.5000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+    @(142.1000 mm, 102.0000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(142.1000 mm, 102.0000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+    @(142.1000 mm, 101.5000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(142.1000 mm, 101.5000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+    @(142.1000 mm, 101.0000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(132.0000 mm, 88.0000 mm): puzdro: FB2
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(140.0000 mm, 102.0000 mm): puzdro: U10
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(124.0000 mm, 88.0000 mm): puzdro: C12
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(130.0000 mm, 100.0000 mm): puzdro: R19
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(100.0000 mm, 100.0000 mm): puzdro: C27
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(114.0000 mm, 88.0000 mm): puzdro: U5
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(104.0000 mm, 88.0000 mm): puzdro: C11
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: obmedzenia z nastavenia dosky pre montážne oblasti; error
+    @(140.0000 mm, 88.0000 mm): puzdro: C5
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+[copper_edge_clearance]: Porušenie izolačnej medzery okraja dosky (obmedzenia z nastavenia dosky pre hrany dosky odstup/minimálna vzdialenosť 0.5000 mm; aktuálna 0.2600 mm)
+    Rule: obmedzenia z nastavenia dosky pre hrany dosky; error
+    @(20.0000 mm, 155.0000 mm): Segment zo Edge.Cuts
+    @(21.5100 mm, 128.0000 mm): Plôška 1 [unconnected-(D7-K-Pad1)] z D7 na F.Cu
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(111.1000 mm, 109.7600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(111.1000 mm, 111.1600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(111.8000 mm, 109.0600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(111.8000 mm, 110.4600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(111.8000 mm, 111.8600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(112.5000 mm, 109.7600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(112.5000 mm, 111.1600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(113.2000 mm, 109.0600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(113.2000 mm, 110.4600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(113.2000 mm, 111.8600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(113.9000 mm, 109.7600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(113.9000 mm, 111.1600 mm): PTH plôška 39 [unconnected-(U11-GND_PAD-Pad39)] z U11
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(30.9500 mm, 88.0000 mm): Plôška 2 [GND] z C1 na F.Cu
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(104.9500 mm, 58.0000 mm): Plôška 2 [GND] z C4 na F.Cu
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(38.9375 mm, 88.0000 mm): Plôška 2 [GND] z D1 na F.Cu
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(130.5000 mm, 58.0000 mm): PTH plôška 2 [GND] z C10
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(100.9500 mm, 106.0000 mm): Plôška 2 [GND] z C28 na F.Cu
+[starved_thermal]: Pripojenie tepelného reliéfu k zóne nekompletné (vrstva F.Cu; zóna min. počet ramien 2; aktuálny 1)
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(114.3500 mm, 30.0000 mm): Plôška 3 [GND] z U2 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(137.9000 mm, 102.5000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(137.9000 mm, 101.5000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(137.9000 mm, 102.5000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+    @(137.9000 mm, 103.0000 mm): Plôška 5 [/ORP_OUT] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(142.1000 mm, 103.0000 mm): Plôška 6 [unconnected-(U10-AIN2-Pad6)] z U10 na F.Cu
+    @(142.1000 mm, 102.5000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(142.1000 mm, 102.5000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+    @(142.1000 mm, 102.0000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(142.1000 mm, 102.0000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+    @(142.1000 mm, 101.5000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(142.1000 mm, 101.5000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+    @(142.1000 mm, 101.0000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(137.9000 mm, 101.0000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(137.9000 mm, 101.5000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(20.0000 mm, 155.0000 mm): Segment zo Edge.Cuts
+    @(20.0000 mm, 126.3500 mm): Segment z D7 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(20.0000 mm, 155.0000 mm): Segment zo Edge.Cuts
+    @(20.0000 mm, 126.3500 mm): Segment z D7 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(20.0000 mm, 155.0000 mm): Segment zo Edge.Cuts
+    @(20.0000 mm, 129.6500 mm): Segment z D7 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(215.7000 mm, 80.5000 mm): Segment z P2 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.5000 mm, 88.0000 mm): Segment z P2 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.5000 mm, 88.0000 mm): Segment z P2 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.7000 mm, 95.5000 mm): Segment z P2 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(215.7000 mm, 36.5000 mm): Segment z P1 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.5000 mm, 44.0000 mm): Segment z P1 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.5000 mm, 44.0000 mm): Segment z P1 na F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: obmedzenia z nastavenia dosky pre popisy; warning
+    @(230.0000 mm, 20.0000 mm): Segment zo Edge.Cuts
+    @(230.7000 mm, 51.5000 mm): Segment z P1 na F.Silkscreen
+[lib_footprint_mismatch]: Puzdro 'PinHeader_1x14_P2.54mm_Vertical' sa nezhoduje s kópiou v knižnici 'Connector_PinHeader_2.54mm'
+    Local override; warning
+    @(185.0000 mm, 24.0000 mm): puzdro: J2
+[lib_footprint_mismatch]: Puzdro 'PinHeader_2x10_P2.54mm_Vertical' sa nezhoduje s kópiou v knižnici 'Connector_PinHeader_2.54mm'
+    Local override; warning
+    @(184.3000 mm, 151.0000 mm): puzdro: J7
+[lib_footprint_mismatch]: Puzdro 'ESP32-WROOM-32E' sa nezhoduje s kópiou v knižnici 'RF_Module'
+    Local override; warning
+    @(114.0000 mm, 108.0000 mm): puzdro: U11
+
+** Found 8 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(137.9000 mm, 102.0000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+    @(20.0000 mm, 20.0000 mm): Zóna 'GND_F' [GND] na F.Cu, priorita 0
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

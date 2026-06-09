@@ -1,0 +1,2541 @@
+ERC report (2026-06-04T11:19:44, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1800 mils, 14288 mils): Symbol D3 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2015 mils, 2459 mils): Symbol F1 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2100 mils, 14288 mils): Symbol D3 Vývod 2 [A, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2315 mils, 2459 mils): Symbol F1 Vývod 2 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(2896 mils, 2409 mils): Symbol U1 Vývod 1 [AC_L, Vstup, Čiara]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2896 mils, 2409 mils): Symbol U1 Vývod 1 [AC_L, Vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3600 mils, 4628 mils): Symbol U2 Vývod 4 [FB, Vstup, Čiara]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(3600 mils, 4628 mils): Symbol U2 Vývod 4 [FB, Vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 11717 mils): Symbol U11 Vývod 17 [SD2, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 11817 mils): Symbol U11 Vývod 18 [SD3, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 11917 mils): Symbol U11 Vývod 19 [CMD, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 12017 mils): Symbol U11 Vývod 20 [CLK, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 12117 mils): Symbol U11 Vývod 21 [SD0, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3631 mils, 12217 mils): Symbol U11 Vývod 22 [SD1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4031 mils, 12617 mils): Symbol U11 Vývod 39 [GND_PAD, Napájací vstup, Čiara]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4031 mils, 12617 mils): Symbol U11 Vývod 39 [GND_PAD, Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4131 mils, 12617 mils): Symbol U11 Vývod 38 [GND, Napájací vstup, Čiara]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4131 mils, 12617 mils): Symbol U11 Vývod 38 [GND, Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4163 mils, 14288 mils): Symbol D4 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4231 mils, 12617 mils): Symbol U11 Vývod 15 [GND, Napájací vstup, Čiara]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4231 mils, 12617 mils): Symbol U11 Vývod 15 [GND, Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4293 mils, 13780 mils): Symbol D7 Vývod 1 [K, Pasívny, Čiara]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(4313 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4463 mils, 14288 mils): Symbol D4 Vývod 2 [A, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4593 mils, 13780 mils): Symbol D7 Vývod 2 [A, Pasívny, Čiara]
+[pin_to_pin]: Vývody typu Napájací výstup a Napájací výstup sú spojené
+    ; error
+    @(4646 mils, 5806 mils): Symbol #FLG04 Vývod 1 [Napájací výstup, Čiara]
+    @(3550 mils, 6002 mils): Symbol U3 Vývod 2 [VOUT, Napájací výstup, Čiara]
+[pin_to_pin]: Vývody typu Napájací výstup a Napájací výstup sú spojené
+    ; error
+    @(4724 mils, 2212 mils): Symbol #FLG01 Vývod 1 [Napájací výstup, Čiara]
+    @(3796 mils, 2409 mils): Symbol U1 Vývod 3 [+12V, Napájací výstup, Čiara]
+[pin_to_pin]: Vývody typu Napájací výstup a Napájací výstup sú spojené
+    ; error
+    @(4724 mils, 2906 mils): Symbol #FLG02 Vývod 1 [Napájací výstup, Čiara]
+    @(3796 mils, 2709 mils): Symbol U1 Vývod 6 [GND, Napájací výstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5031 mils, 11017 mils): Symbol U11 Vývod 32 [NC, Pasívny, Čiara]
+[label_dangling]: Label not connected
+    ; error
+    @(5118 mils, 2409 mils): Označenie '+12V'
+[label_dangling]: Label not connected
+    ; error
+    @(5236 mils, 4209 mils): Označenie '+5V'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5518 mils, 13880 mils): Symbol RLY1 Vývod 12 [NC1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5518 mils, 14180 mils): Symbol RLY1 Vývod 21 [COM2, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5518 mils, 14280 mils): Symbol RLY1 Vývod 22 [NC2, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5518 mils, 14380 mils): Symbol RLY1 Vývod 24 [NO2, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6740 mils, 13483 mils): Symbol J11 Vývod 1 [Pin_1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7706 mils, 14288 mils): Symbol D5 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7824 mils, 14367 mils): Symbol #PWR80 Vývod 1 [Napájací vstup, Čiara]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(7856 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8006 mils, 14288 mils): Symbol D5 Vývod 2 [A, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8118 mils, 7677 mils): Symbol P1 Vývod 2 [Shield, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8268 mils, 7527 mils): Symbol P1 Vývod 1 [Signal, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8540 mils, 7677 mils): Symbol R2 Vývod 1 [~, Pasívny, Čiara]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(9393 mils, 5509 mils): Symbol U5 Vývod 1 [IN, Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9446 mils, 8761 mils): Symbol R4 Vývod 2 [2, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9446 mils, 11517 mils): Symbol R11 Vývod 2 [2, Pasívny, Čiara]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(9793 mils, 7830 mils): Symbol U6 Vývod 4 [V-, Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10068 mils, 14288 mils): Symbol D6 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10186 mils, 14367 mils): Symbol #PWR84 Vývod 1 [Napájací vstup, Čiara]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(10218 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10368 mils, 14288 mils): Symbol D6 Vývod 2 [A, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10430 mils, 7580 mils): Symbol R7 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10430 mils, 10336 mils): Symbol R14 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11217 mils, 7974 mils): Symbol R6 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11217 mils, 10730 mils): Symbol R13 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12842 mils, 12695 mils): Symbol J3 Vývod 1 [Pin_1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13630 mils, 12695 mils): Symbol J4 Vývod 1 [Pin_1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14417 mils, 12695 mils): Symbol J5 Vývod 1 [Pin_1, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15204 mils, 12695 mils): Symbol J6 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(899 mils, 14567 mils): Symbol R20 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(1099 mils, 14567 mils): Symbol R20 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1299 mils, 14567 mils): Vodorovný spoj, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1375 mils, 14567 mils): Symbol Q1 Vývod 1 [G, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1375 mils, 14643 mils): Symbol R24 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1375 mils, 14643 mils): Zvislý, dĺžka 76 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(1375 mils, 14843 mils): Symbol R24 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1375 mils, 15043 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1375 mils, 15157 mils): Symbol #PWR67 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(1375 mils, 15157 mils): Symbol #PWR67 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1425 mils, 2459 mils): Vodorovný spoj, dĺžka 541 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1425 mils, 2459 mils): Symbol J1 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1425 mils, 2559 mils): Zvislý, dĺžka 150 mils
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(1425 mils, 2659 mils): Označenie 'PE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(1425 mils, 2659 mils): Označenie 'PE'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1425 mils, 2709 mils): Vodorovný spoj, dĺžka 1472 mils
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(1575 mils, 2559 mils): Symbol J1 [Conn_01x03]
+[lib_symbol_issues]: Symbol 'Q_NMOS_GDS' sa nenašiel v knižnici symbolov 'Device'
+    ; warning
+    @(1575 mils, 14567 mils): Symbol Q1 [Q_NMOS_GDS]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1675 mils, 14170 mils): Symbol #PWR69 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1675 mils, 14367 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1675 mils, 14367 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1675 mils, 14767 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1675 mils, 14885 mils): Symbol #PWR66 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(1675 mils, 14885 mils): Symbol #PWR66 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1800 mils, 14288 mils): Symbol D3 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1950 mils, 14013 mils): Symbol #PWR68 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1950 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(1950 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(1950 mils, 14288 mils): Symbol D3 [D]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1950 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(1950 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(1425 mils, 2459 mils): Vodorovný spoj, dĺžka 541 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1969 mils, 4131 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1969 mils, 4131 mils): Symbol #PWR05 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(1969 mils, 4328 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2009 mils, 13580 mils): Symbol R28 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2015 mils, 2459 mils): Symbol F1 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Fuse' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(2165 mils, 2459 mils): Symbol F1 [Fuse]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 4328 mils): Vodorovný spoj, dĺžka 534 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 4378 mils): Symbol C2 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 4378 mils): Zvislý, dĺžka 50 mils
+[lib_symbol_mismatch]: Symbol 'C_Polarized' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(2165 mils, 4528 mils): Symbol C2 [C_Polarized]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 4678 mils): Zvislý, dĺžka 165 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 4843 mils): Symbol #PWR06 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(2165 mils, 4843 mils): Symbol #PWR06 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 5806 mils): Symbol #PWR12 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 5806 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2165 mils, 6002 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(2209 mils, 13580 mils): Symbol R28 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2362 mils, 5952 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2362 mils, 5952 mils): Symbol C4 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2362 mils, 6002 mils): Vodorovný spoj, dĺžka 387 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(2362 mils, 6102 mils): Symbol C4 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2362 mils, 6252 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2362 mils, 6378 mils): Symbol #PWR13 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(2362 mils, 6378 mils): Symbol #PWR13 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2365 mils, 2459 mils): Vodorovný spoj, dĺžka 531 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(2365 mils, 2459 mils): Vodorovný spoj, dĺžka 531 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2409 mils, 13580 mils): Vodorovný spoj, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2480 mils, 4628 mils): Zvislý, dĺžka 97 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2480 mils, 4724 mils): Symbol #PWR07 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(2480 mils, 4724 mils): Symbol #PWR07 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2524 mils, 13580 mils): Symbol U12 Vývod 1 [A, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2524 mils, 13980 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2524 mils, 14098 mils): Symbol #PWR73 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(2524 mils, 14098 mils): Symbol #PWR73 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2700 mils, 4328 mils): Symbol U2 Vývod 1 [VIN, Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2700 mils, 4628 mils): Vodorovný spoj, dĺžka 219 mils
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(2874 mils, 13780 mils): Symbol U12 [LTV-356T]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2896 mils, 2409 mils): Symbol U1 Vývod 1 [AC_L, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(2896 mils, 2459 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3040 mils, 10517 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3040 mils, 11017 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3040 mils, 11517 mils): Vodorovný spoj, dĺžka 591 mils
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(3150 mils, 4528 mils): Symbol U2 [LM2596S-5.0]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3150 mils, 4978 mils): Zvislý, dĺžka 141 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3150 mils, 5118 mils): Symbol #PWR08 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3150 mils, 5118 mils): Symbol #PWR08 [GND]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(3150 mils, 6102 mils): Symbol U3 [LD1117AS33TR]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3150 mils, 6452 mils): Zvislý, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3150 mils, 6452 mils): Symbol U3 Vývod 1 [GND, Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3150 mils, 6575 mils): Symbol #PWR14 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3150 mils, 6575 mils): Symbol #PWR14 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3158 mils, 10917 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3158 mils, 11217 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3158 mils, 11317 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3158 mils, 11417 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3224 mils, 13580 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3224 mils, 13980 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3224 mils, 14098 mils): Symbol #PWR74 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3224 mils, 14098 mils): Symbol #PWR74 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3237 mils, 10617 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3237 mils, 10717 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3261 mils, 14567 mils): Symbol R21 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(3346 mils, 2559 mils): Symbol U1 [HLK-30M12]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 9827 mils): Symbol #PWR63 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 9942 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 9942 mils): Symbol R18 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3355 mils, 10142 mils): Symbol R18 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10342 mils): Zvislý, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10417 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10543 mils): Symbol C28 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10543 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3355 mils, 10693 mils): Symbol C28 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10843 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3355 mils, 10890 mils): Symbol #PWR64 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3355 mils, 10890 mils): Symbol #PWR64 [GND]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3461 mils, 14567 mils): Symbol R21 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3500 mils, 12989 mils): Symbol #PWR75 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3500 mils, 13104 mils): Symbol R29 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3500 mils, 13104 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3500 mils, 13304 mils): Symbol R29 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3500 mils, 13504 mils): Zvislý, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3500 mils, 13580 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3550 mils, 6002 mils): Vodorovný spoj, dĺžka 584 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3600 mils, 4328 mils): Vodorovný spoj, dĺžka 219 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3600 mils, 4628 mils): Vodorovný spoj, dĺžka 1715 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3661 mils, 14567 mils): Vodorovný spoj, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3737 mils, 14567 mils): Symbol Q2 Vývod 1 [G, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3737 mils, 14643 mils): Zvislý, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3737 mils, 14643 mils): Symbol R25 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3737 mils, 14843 mils): Symbol R25 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3737 mils, 15043 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3737 mils, 15157 mils): Symbol #PWR71 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3737 mils, 15157 mils): Symbol #PWR71 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3796 mils, 2409 mils): Vodorovný spoj, dĺžka 731 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3796 mils, 2709 mils): Vodorovný spoj, dĺžka 731 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3819 mils, 4328 mils): Zvislý, dĺžka 129 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3819 mils, 4328 mils): Vodorovný spoj, dĺžka 362 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(3819 mils, 4606 mils): Symbol D2 [D]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3819 mils, 4756 mils): Symbol D2 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3819 mils, 4756 mils): Zvislý, dĺžka 165 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(3819 mils, 4921 mils): Symbol #PWR09 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(3819 mils, 4921 mils): Symbol #PWR09 [GND]
+[lib_symbol_issues]: Symbol 'Q_NMOS_GDS' sa nenašiel v knižnici symbolov 'Device'
+    ; warning
+    @(3937 mils, 14567 mils): Symbol Q2 [Q_NMOS_GDS]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(3500 mils, 13580 mils): Vodorovný spoj, dĺžka 472 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4037 mils, 14367 mils): Vodorovný spoj, dĺžka 681 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4037 mils, 14767 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4037 mils, 14885 mils): Symbol #PWR70 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4037 mils, 14885 mils): Symbol #PWR70 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4134 mils, 5952 mils): Symbol C5 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4134 mils, 5952 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4134 mils, 6002 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4134 mils, 6102 mils): Symbol C5 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4134 mils, 6252 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4134 mils, 6378 mils): Symbol #PWR15 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4134 mils, 6378 mils): Symbol #PWR15 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4163 mils, 14288 mils): Symbol D4 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4181 mils, 4328 mils): Symbol L1 Vývod 1 [1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4293 mils, 13780 mils): Symbol D7 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4313 mils, 14013 mils): Symbol #PWR72 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4313 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(4313 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4313 mils, 14288 mils): Symbol D4 [D]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(4313 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4313 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(4313 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[lib_symbol_mismatch]: Symbol 'L' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4331 mils, 4328 mils): Symbol L1 [L]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 5806 mils): Symbol #PWR16 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 5806 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 6002 mils): Vodorovný spoj, dĺžka 315 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 10099 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 10099 mils): Symbol #PWR59 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 10217 mils): Vodorovný spoj, dĺžka 315 mils
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(4331 mils, 11417 mils): Symbol U11 [ESP32-WROOM-32E]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 12617 mils): Symbol U11 Vývod 1 [GND, Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 12617 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4331 mils, 12735 mils): Symbol #PWR60 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4331 mils, 12735 mils): Symbol #PWR60 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4443 mils, 13580 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4443 mils, 13630 mils): Zvislý, dĺžka 50 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(4443 mils, 13630 mils): Zvislý, dĺžka 50 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4443 mils, 13780 mils): Symbol D7 [D]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4443 mils, 13930 mils): Zvislý, dĺžka 50 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(4443 mils, 13930 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4443 mils, 13980 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4481 mils, 4328 mils): Vodorovný spoj, dĺžka 637 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2212 mils): Symbol #PWR01 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2409 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2409 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2709 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2709 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4528 mils, 2906 mils): Symbol #PWR02 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4528 mils, 2906 mils): Symbol #PWR02 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 5806 mils): Symbol #FLG04 Vývod 1 [Napájací výstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 5806 mils): Zvislý, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4646 mils, 5806 mils): Symbol #FLG04 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 10067 mils): Symbol C26 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 10067 mils): Zvislý, dĺžka 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 10217 mils): Vodorovný spoj, dĺžka 315 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4646 mils, 10217 mils): Symbol C26 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 10367 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4646 mils, 10414 mils): Symbol #PWR61 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4646 mils, 10414 mils): Symbol #PWR61 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4718 mils, 13383 mils): Symbol #PWR76 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4718 mils, 13383 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4718 mils, 13580 mils): Symbol RLY1 Vývod A1 [COIL+, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4718 mils, 13980 mils): Zvislý, dĺžka 387 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4724 mils, 2212 mils): Symbol #FLG01 Vývod 1 [Napájací výstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4724 mils, 2212 mils): Zvislý, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4724 mils, 2212 mils): Symbol #FLG01 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4724 mils, 2906 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4724 mils, 2906 mils): Symbol #FLG02 Vývod 1 [Napájací výstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4724 mils, 2906 mils): Symbol #FLG02 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4921 mils, 2409 mils): Symbol C1 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4921 mils, 2559 mils): Symbol C1 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4961 mils, 10067 mils): Symbol C27 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4961 mils, 10067 mils): Zvislý, dĺžka 150 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(4961 mils, 10217 mils): Symbol C27 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4961 mils, 10367 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(4961 mils, 10414 mils): Symbol #PWR62 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(4961 mils, 10414 mils): Symbol #PWR62 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10417 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10517 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10617 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10717 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10817 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 10917 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11117 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11217 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11317 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11417 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11517 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11617 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11717 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11817 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 11917 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 12017 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5031 mils, 12117 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4131 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4131 mils): Symbol #PWR11 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4328 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4378 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4378 mils): Symbol C3 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C_Polarized' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5118 mils, 4528 mils): Symbol C3 [C_Polarized]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4678 mils): Zvislý, dĺžka 165 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5118 mils, 4843 mils): Symbol #PWR10 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(5118 mils, 4843 mils): Symbol #PWR10 [GND]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(5118 mils, 13780 mils): Symbol RLY1 [Relay_DPDT]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5306 mils, 9827 mils): Symbol #PWR65 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5306 mils, 9942 mils): Symbol R19 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5306 mils, 9942 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5306 mils, 10142 mils): Symbol R19 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5306 mils, 10342 mils): Zvislý, dĺžka 76 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5315 mils, 4628 mils): Zvislý, dĺžka 300 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5315 mils, 4628 mils): Zvislý, dĺžka 300 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2087 mils): Zvislý, dĺžka 154 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2087 mils): Symbol #PWR03 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2241 mils): Symbol R1 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5512 mils, 2441 mils): Symbol R1 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2641 mils): Zvislý, dĺžka 44 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2685 mils): Symbol D1 Vývod 1 [K, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'LED' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5512 mils, 2835 mils): Symbol D1 [LED]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 2985 mils): Zvislý, dĺžka 86 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 3071 mils): Symbol #PWR04 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(5512 mils, 3071 mils): Symbol #PWR04 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 4131 mils): Symbol #FLG03 Vývod 1 [Napájací výstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5512 mils, 4131 mils): Zvislý, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'PWR_FLAG' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(5512 mils, 4131 mils): Symbol #FLG03 [PWR_FLAG]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5518 mils, 13580 mils): Vodorovný spoj, dĺžka 781 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5518 mils, 13980 mils): Vodorovný spoj, dĺžka 781 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 10517 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 10617 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 10717 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 10817 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 10917 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11117 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11217 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11317 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11417 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11517 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11617 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11717 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11817 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 11917 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 12017 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(5031 mils, 12117 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5984 mils, 13461 mils): Symbol R30 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5984 mils, 13461 mils): Zvislý, dĺžka 118 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5984 mils, 13661 mils): Symbol R30 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5984 mils, 13748 mils): Symbol C29 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5984 mils, 13861 mils): Zvislý, dĺžka 114 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(5984 mils, 13898 mils): Symbol C29 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(5984 mils, 14048 mils): Zvislý, dĺžka 68 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 13530 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 13530 mils): Symbol MOV1 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Varistor' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(6299 mils, 13780 mils): Symbol MOV1 [Varistor]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6299 mils, 14030 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6464 mils, 13583 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6464 mils, 13683 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6464 mils, 13783 mils): Vodorovný spoj, dĺžka 276 mils
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(6464 mils, 13783 mils): Označenie 'PE'
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6740 mils, 13483 mils): Symbol J11 Vývod 1 [Pin_1, Pasívny, Čiara]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(6464 mils, 13783 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(6805 mils, 14567 mils): Symbol R22 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(6890 mils, 13583 mils): Symbol J11 [Conn_01x03]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(7005 mils, 14567 mils): Symbol R22 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7205 mils, 14567 mils): Vodorovný spoj, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7280 mils, 14567 mils): Symbol Q3 Vývod 1 [G, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7280 mils, 14643 mils): Symbol R26 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7280 mils, 14643 mils): Zvislý, dĺžka 76 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(7280 mils, 14843 mils): Symbol R26 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7280 mils, 15043 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7280 mils, 15157 mils): Symbol #PWR78 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(7280 mils, 15157 mils): Symbol #PWR78 [GND]
+[lib_symbol_issues]: Symbol 'Q_NMOS_GDS' sa nenašiel v knižnici symbolov 'Device'
+    ; warning
+    @(7480 mils, 14567 mils): Symbol Q3 [Q_NMOS_GDS]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7580 mils, 14367 mils): Vodorovný spoj, dĺžka 441 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7580 mils, 14367 mils): Zvislý, dĺžka 100 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7580 mils, 14767 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7580 mils, 14885 mils): Symbol #PWR77 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(7580 mils, 14885 mils): Symbol #PWR77 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7706 mils, 14288 mils): Symbol D5 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7824 mils, 14367 mils): Symbol #PWR80 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7856 mils, 14013 mils): Symbol #PWR79 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7856 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(7856 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(7856 mils, 14288 mils): Symbol D5 [D]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(7856 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(7856 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(7856 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8021 mils, 14367 mils): Symbol J9 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8021 mils, 14467 mils): Vodorovný spoj, dĺžka 441 mils
+[lib_symbol_mismatch]: Symbol 'Conn_01x02' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(8171 mils, 14367 mils): Symbol J9 [Conn_01x02]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 7527 mils): Symbol P1 Vývod 1 [Signal, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Conn_Coaxial' sa nezhoduje s kópiou v knižnici 'Connector'
+    ; warning
+    @(8268 mils, 7677 mils): Symbol P1 [Conn_Coaxial]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 7827 mils): Zvislý, dĺžka 126 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(8268 mils, 7827 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 7953 mils): Symbol #PWR29 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(8268 mils, 7953 mils): Symbol #PWR29 [GND]
+[lib_symbol_mismatch]: Symbol 'Conn_Coaxial' sa nezhoduje s kópiou v knižnici 'Connector'
+    ; warning
+    @(8268 mils, 10433 mils): Symbol P2 [Conn_Coaxial]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 10583 mils): Symbol P2 Vývod 1 [Signal, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 10583 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8268 mils, 10709 mils): Symbol #PWR41 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(8268 mils, 10709 mils): Symbol #PWR41 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8418 mils, 7677 mils): Vodorovný spoj, dĺžka 122 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(8418 mils, 7677 mils): Vodorovný spoj, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8418 mils, 10433 mils): Vodorovný spoj, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8465 mils, 4152 mils): Symbol #PWR17 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8465 mils, 4152 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8465 mils, 4349 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8540 mils, 7677 mils): Symbol R2 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8540 mils, 10433 mils): Symbol R9 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 4299 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 4299 mils): Symbol C6 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 4349 mils): Vodorovný spoj, dĺžka 236 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(8661 mils, 4449 mils): Symbol C6 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 4599 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8661 mils, 4724 mils): Symbol #PWR18 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(8661 mils, 4724 mils): Symbol #PWR18 [GND]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(8740 mils, 7677 mils): Symbol R2 [R]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(8740 mils, 10433 mils): Symbol R9 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8898 mils, 4299 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8898 mils, 4299 mils): Symbol C7 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8898 mils, 4349 mils): Vodorovný spoj, dĺžka 151 mils
+[lib_symbol_mismatch]: Symbol 'C_Polarized' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(8898 mils, 4449 mils): Symbol C7 [C_Polarized]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8898 mils, 4599 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8898 mils, 4724 mils): Symbol #PWR19 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(8898 mils, 4724 mils): Symbol #PWR19 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8940 mils, 7677 mils): Vodorovný spoj, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(8940 mils, 10433 mils): Vodorovný spoj, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9049 mils, 4349 mils): Symbol U4 Vývod 1 [IN, Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 5312 mils): Symbol #PWR25 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 5312 mils): Zvislý, dĺžka 197 mils
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(9055 mils, 5312 mils): Symbol #PWR25 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 5509 mils): Vodorovný spoj, dĺžka 337 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 7380 mils): Vodorovný spoj, dĺžka 437 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 7677 mils): Zvislý, dĺžka 297 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 7803 mils): Symbol C13 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 7803 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9055 mils, 7953 mils): Symbol C13 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 8103 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 8228 mils): Symbol #PWR30 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9055 mils, 8228 mils): Symbol #PWR30 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10136 mils): Vodorovný spoj, dĺžka 437 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10433 mils): Zvislý, dĺžka 297 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10559 mils): Symbol C19 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10559 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9055 mils, 10709 mils): Symbol C19 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10859 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9055 mils, 10984 mils): Symbol #PWR42 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9055 mils, 10984 mils): Symbol #PWR42 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9167 mils, 14567 mils): Symbol R23 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8089 mils): Symbol R3 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8089 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 8289 mils): Symbol R3 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8489 mils): Zvislý, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8611 mils): Symbol R4 Vývod 1 [1, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R_Potentiometer' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 8761 mils): Symbol R4 [R_Potentiometer]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8911 mils): Zvislý, dĺžka 44 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 8955 mils): Symbol R5 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 9155 mils): Symbol R5 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 9355 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 9470 mils): Symbol #PWR35 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9296 mils, 9470 mils): Symbol #PWR35 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 10845 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 10845 mils): Symbol R10 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 11045 mils): Symbol R10 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 11245 mils): Zvislý, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 11367 mils): Symbol R11 Vývod 1 [1, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R_Potentiometer' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 11517 mils): Symbol R11 [R_Potentiometer]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 11667 mils): Zvislý, dĺžka 44 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 11711 mils): Symbol R12 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9296 mils, 11911 mils): Symbol R12 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 12111 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9296 mils, 12226 mils): Symbol #PWR47 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9296 mils, 12226 mils): Symbol #PWR47 [GND]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9367 mils, 14567 mils): Symbol R23 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9393 mils, 5509 mils): Symbol U5 Vývod 1 [IN, Napájací vstup, Čiara]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(9449 mils, 4449 mils): Symbol U4 [L7805ABD2T]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9449 mils, 4799 mils): Zvislý, dĺžka 122 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9449 mils, 4921 mils): Symbol #PWR20 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9449 mils, 4921 mils): Symbol #PWR20 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 7280 mils): Symbol U6 Vývod 1 [N1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 7580 mils): Zvislý, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 7974 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 7974 mils): Vodorovný spoj, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 10036 mils): Symbol U8 Vývod 1 [N1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 10336 mils): Zvislý, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 10730 mils): Vodorovný spoj, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9493 mils, 10730 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9567 mils, 14567 mils): Vodorovný spoj, dĺžka 76 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9643 mils, 14567 mils): Symbol Q4 Vývod 1 [G, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9643 mils, 14643 mils): Symbol R27 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9643 mils, 14643 mils): Zvislý, dĺžka 76 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9643 mils, 14843 mils): Symbol R27 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9643 mils, 15043 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9643 mils, 15157 mils): Symbol #PWR82 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9643 mils, 15157 mils): Symbol #PWR82 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9693 mils, 7974 mils): Symbol C14 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9693 mils, 10730 mils): Symbol C20 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 6933 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 6933 mils): Symbol #PWR31 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(9793 mils, 6933 mils): Symbol #PWR31 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 7130 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 7830 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 7830 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 8027 mils): Symbol #PWR32 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '-5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(9793 mils, 8027 mils): Symbol #PWR32 [-5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 9689 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 9689 mils): Symbol #PWR43 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(9793 mils, 9689 mils): Symbol #PWR43 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 9886 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 10586 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 10586 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9793 mils, 10783 mils): Symbol #PWR44 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '-5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(9793 mils, 10783 mils): Symbol #PWR44 [-5V_AN]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(9843 mils, 5709 mils): Symbol U5 [TPS60400DBVR]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9843 mils, 6159 mils): Zvislý, dĺžka 141 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9843 mils, 6299 mils): Symbol #PWR26 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9843 mils, 6299 mils): Symbol #PWR26 [GND]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(9843 mils, 7480 mils): Symbol U6 [CA3140EZ]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9843 mils, 7974 mils): Symbol C14 [C]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(9843 mils, 10236 mils): Symbol U8 [CA3140EZ]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(9843 mils, 10730 mils): Symbol C20 [C]
+[lib_symbol_issues]: Symbol 'Q_NMOS_GDS' sa nenašiel v knižnici symbolov 'Device'
+    ; warning
+    @(9843 mils, 14567 mils): Symbol Q4 [Q_NMOS_GDS]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9849 mils, 4349 mils): Vodorovný spoj, dĺžka 191 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9943 mils, 14367 mils): Zvislý, dĺžka 100 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9943 mils, 14367 mils): Vodorovný spoj, dĺžka 441 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9943 mils, 14767 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(9943 mils, 14885 mils): Symbol #PWR81 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(9943 mils, 14885 mils): Symbol #PWR81 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10039 mils, 4299 mils): Symbol C8 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10039 mils, 4299 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10039 mils, 4349 mils): Vodorovný spoj, dĺžka 236 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10039 mils, 4449 mils): Symbol C8 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10039 mils, 4599 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10039 mils, 4724 mils): Symbol #PWR21 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10039 mils, 4724 mils): Symbol #PWR21 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 6902 mils): Symbol C15 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 6902 mils): Zvislý, dĺžka 229 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10068 mils, 7052 mils): Symbol C15 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 7202 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 7248 mils): Symbol #PWR33 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10068 mils, 7248 mils): Symbol #PWR33 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 7759 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 7759 mils): Symbol C16 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10068 mils, 7909 mils): Symbol C16 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 8059 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 8185 mils): Symbol #PWR34 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10068 mils, 8185 mils): Symbol #PWR34 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 9657 mils): Symbol C21 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 9657 mils): Zvislý, dĺžka 229 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10068 mils, 9807 mils): Symbol C21 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 9957 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 10004 mils): Symbol #PWR45 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10068 mils, 10004 mils): Symbol #PWR45 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 10515 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 10515 mils): Symbol C22 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10068 mils, 10665 mils): Symbol C22 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 10815 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 10941 mils): Symbol #PWR46 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10068 mils, 10941 mils): Symbol #PWR46 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10068 mils, 14288 mils): Symbol D6 Vývod 1 [K, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10186 mils, 14367 mils): Symbol #PWR84 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 7480 mils): Zvislý, dĺžka 494 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 7580 mils): Vodorovný spoj, dĺžka 237 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(10193 mils, 7580 mils): Vodorovný spoj, dĺžka 237 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 7974 mils): Vodorovný spoj, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 10236 mils): Zvislý, dĺžka 494 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 10336 mils): Vodorovný spoj, dĺžka 237 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(10193 mils, 10336 mils): Vodorovný spoj, dĺžka 237 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10193 mils, 10730 mils): Vodorovný spoj, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10218 mils, 14013 mils): Symbol #PWR83 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10218 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(10218 mils, 14138 mils): Zvislý, dĺžka 126 mils
+[lib_symbol_mismatch]: Symbol 'D' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10218 mils, 14288 mils): Symbol D6 [D]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(10218 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10218 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(10218 mils, 14438 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10276 mils, 4299 mils): Symbol C9 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10276 mils, 4299 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10276 mils, 4349 mils): Vodorovný spoj, dĺžka 244 mils
+[lib_symbol_mismatch]: Symbol 'C_Polarized' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10276 mils, 4449 mils): Symbol C9 [C_Polarized]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10276 mils, 4599 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10276 mils, 4724 mils): Symbol #PWR22 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10276 mils, 4724 mils): Symbol #PWR22 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10293 mils, 5509 mils): Vodorovný spoj, dĺžka 337 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10293 mils, 5709 mils): Vodorovný spoj, dĺžka 337 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10293 mils, 5909 mils): Vodorovný spoj, dĺžka 337 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10383 mils, 14367 mils): Symbol J10 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10383 mils, 14467 mils): Vodorovný spoj, dĺžka 441 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10430 mils, 7580 mils): Symbol R7 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10430 mils, 10336 mils): Symbol R14 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10519 mils, 4349 mils): Symbol L2 Vývod 1 [1, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Conn_01x02' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(10533 mils, 14367 mils): Symbol J10 [Conn_01x02]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5459 mils): Symbol C11 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5459 mils): Zvislý, dĺžka 50 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10630 mils, 5609 mils): Symbol C11 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5759 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5834 mils): Zvislý, dĺžka 74 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5834 mils): Symbol C12 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 5909 mils): Vodorovný spoj, dĺžka 244 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10630 mils, 5984 mils): Symbol C12 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 6134 mils): Zvislý, dĺžka 86 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10630 mils, 6220 mils): Symbol #PWR27 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10630 mils, 6220 mils): Symbol #PWR27 [GND]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10630 mils, 7580 mils): Symbol R7 [R]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10630 mils, 10336 mils): Symbol R14 [R]
+[lib_symbol_mismatch]: Symbol 'L' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10669 mils, 4349 mils): Symbol L2 [L]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10819 mils, 4349 mils): Vodorovný spoj, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10830 mils, 7580 mils): Vodorovný spoj, dĺžka 237 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10830 mils, 10336 mils): Vodorovný spoj, dĺžka 237 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 7180 mils): Symbol R8 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 7180 mils): Zvislý, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 7380 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10870 mils, 7380 mils): Symbol R8 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 7580 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 7695 mils): Symbol #PWR36 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10870 mils, 7695 mils): Symbol #PWR36 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 9936 mils): Symbol R15 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 9936 mils): Zvislý, dĺžka 200 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 10136 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10870 mils, 10136 mils): Symbol R15 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 10336 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10870 mils, 10451 mils): Symbol #PWR48 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10870 mils, 10451 mils): Symbol #PWR48 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10874 mils, 5909 mils): Symbol FB2 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10945 mils, 4299 mils): Symbol C10 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10945 mils, 4299 mils): Zvislý, dĺžka 50 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10945 mils, 4349 mils): Vodorovný spoj, dĺžka 165 mils
+[lib_symbol_mismatch]: Symbol 'C_Polarized' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(10945 mils, 4449 mils): Symbol C10 [C_Polarized]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10945 mils, 4599 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(10945 mils, 4724 mils): Symbol #PWR23 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(10945 mils, 4724 mils): Symbol #PWR23 [GND]
+[lib_symbol_mismatch]: Symbol 'FerriteBead' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11024 mils, 5909 mils): Symbol FB2 [FerriteBead]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11067 mils, 7280 mils): Symbol U7 Vývod 1 [N1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11067 mils, 10036 mils): Symbol U9 Vývod 1 [N1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11110 mils, 4349 mils): Symbol FB1 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11146 mils, 7580 mils): Zvislý, dĺžka 394 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(11146 mils, 7580 mils): Zvislý, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11146 mils, 7974 mils): Vodorovný spoj, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11146 mils, 10336 mils): Zvislý, dĺžka 394 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(11146 mils, 10336 mils): Zvislý, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11146 mils, 10730 mils): Vodorovný spoj, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11174 mils, 5909 mils): Vodorovný spoj, dĺžka 244 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11217 mils, 7974 mils): Symbol R6 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11217 mils, 10730 mils): Symbol R13 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'FerriteBead' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11260 mils, 4349 mils): Symbol FB1 [FerriteBead]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 6933 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 6933 mils): Symbol #PWR37 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11367 mils, 6933 mils): Symbol #PWR37 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 7130 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 7830 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 7830 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 8027 mils): Symbol #PWR38 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '-5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11367 mils, 8027 mils): Symbol #PWR38 [-5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 9689 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 9689 mils): Symbol #PWR49 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11367 mils, 9689 mils): Symbol #PWR49 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 9886 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 10586 mils): Vodorovný spoj, dĺžka 276 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 10586 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11367 mils, 10783 mils): Symbol #PWR50 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '-5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11367 mils, 10783 mils): Symbol #PWR50 [-5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11410 mils, 4349 mils): Vodorovný spoj, dĺžka 204 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11417 mils, 5909 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11417 mils, 6106 mils): Symbol #PWR28 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '-5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11417 mils, 6106 mils): Symbol #PWR28 [-5V_AN]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(11417 mils, 7480 mils): Symbol U7 [TL071IP]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11417 mils, 7974 mils): Symbol R6 [R]
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(11417 mils, 10236 mils): Symbol U9 [TL071IP]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11417 mils, 10730 mils): Symbol R13 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11614 mils, 4152 mils): Zvislý, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11614 mils, 4152 mils): Symbol #PWR24 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_issues]: Symbol '+5V_AN' sa nenašiel v knižnici symbolov 'power'
+    ; warning
+    @(11614 mils, 4152 mils): Symbol #PWR24 [+5V_AN]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11617 mils, 7974 mils): Vodorovný spoj, dĺžka 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11617 mils, 10730 mils): Vodorovný spoj, dĺžka 150 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 6902 mils): Zvislý, dĺžka 229 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 6902 mils): Symbol C17 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11643 mils, 7052 mils): Symbol C17 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 7202 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 7248 mils): Symbol #PWR39 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(11643 mils, 7248 mils): Symbol #PWR39 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 7759 mils): Symbol C18 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 7759 mils): Zvislý, dĺžka 71 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11643 mils, 7909 mils): Symbol C18 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 8059 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 8185 mils): Symbol #PWR40 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(11643 mils, 8185 mils): Symbol #PWR40 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 9657 mils): Zvislý, dĺžka 229 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 9657 mils): Symbol C23 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11643 mils, 9807 mils): Symbol C23 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 9957 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 10004 mils): Symbol #PWR51 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(11643 mils, 10004 mils): Symbol #PWR51 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 10515 mils): Zvislý, dĺžka 71 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 10515 mils): Symbol C24 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(11643 mils, 10665 mils): Symbol C24 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 10815 mils): Zvislý, dĺžka 126 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11643 mils, 10941 mils): Symbol #PWR52 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(11643 mils, 10941 mils): Symbol #PWR52 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11767 mils, 7480 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11767 mils, 7974 mils): Zvislý, dĺžka 494 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11767 mils, 10236 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(11767 mils, 10730 mils): Zvislý, dĺžka 494 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(11767 mils, 7480 mils): Vodorovný spoj, dĺžka 591 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(11767 mils, 10236 mils): Vodorovný spoj, dĺžka 591 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 10624 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 10724 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 10824 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 10924 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11024 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11124 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11224 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11324 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11424 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11524 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11624 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 11724 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 12895 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 14173 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12448 mils, 14273 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12598 mils, 12283 mils): Symbol #PWR95 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12598 mils, 12398 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12598 mils, 12398 mils): Symbol R31 Vývod 1 [~, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(12598 mils, 12598 mils): Symbol R31 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12598 mils, 12798 mils): Zvislý, dĺžka 115 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 10424 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 10424 mils): Symbol #PWR85 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 10524 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 10524 mils): Symbol #PWR86 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(12645 mils, 10524 mils): Symbol #PWR86 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 12795 mils): Symbol #PWR87 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 12795 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 12995 mils): Symbol #PWR88 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(12645 mils, 12995 mils): Symbol #PWR88 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 14073 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 14073 mils): Symbol #PWR109 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 14373 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12645 mils, 14373 mils): Symbol #PWR110 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(12645 mils, 14373 mils): Symbol #PWR110 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12842 mils, 10424 mils): Symbol J2 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12842 mils, 12695 mils): Symbol J3 Vývod 1 [Pin_1, Pasívny, Čiara]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(12645 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(12842 mils, 14073 mils): Symbol J8 Vývod 1 [Pin_1, Pasívny, Čiara]
+[lib_symbol_mismatch]: Symbol 'Conn_01x14' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(12992 mils, 11024 mils): Symbol J2 [Conn_01x14]
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(12992 mils, 12795 mils): Symbol J3 [Conn_01x03]
+[lib_symbol_mismatch]: Symbol 'Conn_01x04' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(12992 mils, 14173 mils): Symbol J8 [Conn_01x04]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13230 mils, 7574 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13230 mils, 7674 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13230 mils, 8074 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13230 mils, 8074 mils): Symbol #PWR53 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(13230 mils, 8074 mils): Symbol #PWR53 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13236 mils, 12895 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13426 mils, 8074 mils): Symbol U10 Vývod 1 [ADDR, Vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13433 mils, 12795 mils): Symbol #PWR89 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13433 mils, 12795 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13433 mils, 12995 mils): Symbol #PWR90 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13433 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(13433 mils, 12995 mils): Symbol #PWR90 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13630 mils, 12695 mils): Symbol J4 Vývod 1 [Pin_1, Pasívny, Čiara]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(13433 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(13780 mils, 12795 mils): Symbol J4 [Conn_01x03]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13976 mils, 7156 mils): Symbol #PWR54 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13976 mils, 7156 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13976 mils, 7274 mils): Vodorovný spoj, dĺžka 315 mils
+[lib_symbol_issues]: Aktuálne nastavenie nezahŕňa knižnicu symbolov 'Custom'
+    ; warning
+    @(13976 mils, 7874 mils): Symbol U10 [ADS1115IDGSR]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13976 mils, 8474 mils): Zvislý, dĺžka 118 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(13976 mils, 8592 mils): Symbol #PWR55 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(13976 mils, 8592 mils): Symbol #PWR55 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14023 mils, 12895 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14220 mils, 12795 mils): Symbol #PWR91 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14220 mils, 12795 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14220 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14220 mils, 12995 mils): Symbol #PWR92 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(14220 mils, 12995 mils): Symbol #PWR92 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14291 mils, 7124 mils): Symbol C25 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14291 mils, 7124 mils): Zvislý, dĺžka 150 mils
+[lib_symbol_mismatch]: Symbol 'C' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(14291 mils, 7274 mils): Symbol C25 [C]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14291 mils, 7424 mils): Zvislý, dĺžka 47 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14291 mils, 7471 mils): Symbol #PWR56 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(14291 mils, 7471 mils): Symbol #PWR56 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 10574 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 10674 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 10774 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 10874 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 10974 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 11074 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 11174 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14417 mils, 12695 mils): Symbol J5 Vývod 1 [Pin_1, Pasívny, Čiara]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(14220 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14526 mils, 7674 mils): Vodorovný spoj, dĺžka 512 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14526 mils, 7774 mils): Vodorovný spoj, dĺžka 512 mils
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(14567 mils, 12795 mils): Symbol J5 [Conn_01x03]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11274 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11274 mils): Symbol #PWR103 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11374 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11374 mils): Symbol #PWR105 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11474 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14614 mils, 11474 mils): Symbol #PWR107 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(14614 mils, 11474 mils): Symbol #PWR107 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14811 mils, 10574 mils): Symbol J7 Vývod 1 [Pin_1, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14811 mils, 12895 mils): Vodorovný spoj, dĺžka 394 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14841 mils, 7044 mils): Symbol #PWR57 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14841 mils, 7159 mils): Symbol R16 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14841 mils, 7159 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(14841 mils, 7359 mils): Symbol R16 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(14841 mils, 7559 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'Conn_02x10_Odd_Even' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(14961 mils, 11024 mils): Symbol J7 [Conn_02x10_Odd_Even]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15007 mils, 12795 mils): Symbol #PWR93 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15007 mils, 12795 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15007 mils, 12995 mils): Symbol #PWR94 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15007 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15007 mils, 12995 mils): Symbol #PWR94 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15038 mils, 7144 mils): Symbol #PWR58 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15038 mils, 7259 mils): Symbol R17 Vývod 1 [~, Pasívny, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15038 mils, 7259 mils): Zvislý, dĺžka 115 mils
+[lib_symbol_mismatch]: Symbol 'R' sa nezhoduje s kópiou v knižnici 'Device'
+    ; warning
+    @(15038 mils, 7459 mils): Symbol R17 [R]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15038 mils, 7659 mils): Zvislý, dĺžka 115 mils
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(14526 mils, 7674 mils): Vodorovný spoj, dĺžka 512 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 10574 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 10674 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 10774 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 10874 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 10974 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 11074 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 11174 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 11274 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 11374 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15111 mils, 11474 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15204 mils, 12695 mils): Symbol J6 Vývod 1 [Pin_1, Pasívny, Čiara]
+[unconnected_wire_endpoint]: Nepripojené konce spojov
+    ; warning
+    @(15007 mils, 12995 mils): Vodorovný spoj, dĺžka 197 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 10574 mils): Symbol #PWR96 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 10574 mils): Symbol #PWR96 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 10674 mils): Symbol #PWR97 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 10674 mils): Symbol #PWR97 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 10774 mils): Symbol #PWR98 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 10774 mils): Symbol #PWR98 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 10874 mils): Symbol #PWR99 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 10874 mils): Symbol #PWR99 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 10974 mils): Symbol #PWR100 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 10974 mils): Symbol #PWR100 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 11074 mils): Symbol #PWR101 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 11074 mils): Symbol #PWR101 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 11174 mils): Symbol #PWR102 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 11174 mils): Symbol #PWR102 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 11274 mils): Symbol #PWR104 Vývod 1 [Napájací vstup, Čiara]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 11374 mils): Symbol #PWR106 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 11374 mils): Symbol #PWR106 [GND]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(15307 mils, 11474 mils): Symbol #PWR108 Vývod 1 [Napájací vstup, Čiara]
+[lib_symbol_mismatch]: Symbol 'GND' sa nezhoduje s kópiou v knižnici 'power'
+    ; warning
+    @(15307 mils, 11474 mils): Symbol #PWR108 [GND]
+[lib_symbol_mismatch]: Symbol 'Conn_01x03' sa nezhoduje s kópiou v knižnici 'Connector_Generic'
+    ; warning
+    @(15354 mils, 12795 mils): Symbol J6 [Conn_01x03]
+
+ ** ERC messages: 842  Errors 59  Warnings 783
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

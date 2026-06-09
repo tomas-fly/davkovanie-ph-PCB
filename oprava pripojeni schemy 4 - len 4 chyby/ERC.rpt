@@ -1,0 +1,39 @@
+ERC report (2026-06-08T17:56:32, Encoding UTF8)
+Report includes: Errors
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3600 mils, 4628 mils): Symbol U2 Vývod 4 [FB, Vstup, Čiara]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(3600 mils, 4628 mils): Symbol U2 Vývod 4 [FB, Vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4313 mils, 14438 mils): Symbol D4 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7824 mils, 14367 mils): Symbol #PWR80 Vývod 1 [Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7856 mils, 14438 mils): Symbol D5 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10186 mils, 14367 mils): Symbol #PWR84 Vývod 1 [Napájací vstup, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10218 mils, 14438 mils): Symbol D6 Vývod 1 [K, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10430 mils, 7580 mils): Symbol R7 Vývod 1 [~, Pasívny, Čiara]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10430 mils, 10336 mils): Symbol R14 Vývod 1 [~, Pasívny, Čiara]
+
+ ** ERC messages: 9  Errors 9  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

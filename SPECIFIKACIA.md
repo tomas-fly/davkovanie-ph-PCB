@@ -97,7 +97,7 @@ Pôvodná schéma: DFRobot SEN0161 pH Meter V1.0
 | Ref | Komponent | Hodnota | Puzdro | Poznámka |
 |-----|-----------|---------|--------|----------|
 | P1 | BNC konektor | — | Panel mount | pH sonda |
-| U6 | CA3140EZ | CMOS op-amp | DIP-8 | Zin >1TΩ, kritický pre pH sondu |
+| U6 | CA3140AMZ | CMOS op-amp | SOIC-8 | Zin >1TΩ, kritický pre pH sondu |
 | R2 | Rezistor | 4.7MΩ | 0805 | Vstupný bias |
 | C13 | Keramický kondenzátor | 2.2nF | 0805 | VF filter na vstupe |
 | C14 | Keramický kondenzátor | 1µF | 0805 | Frekvenčná kompenzácia |
@@ -129,7 +129,7 @@ Rovnaká topológia ako pH senzor.
 | Ref | Komponent | Hodnota | Puzdro | Poznámka |
 |-----|-----------|---------|--------|----------|
 | P2 | BNC konektor | — | Panel mount | ORP sonda |
-| U8 | CA3140EZ | CMOS op-amp | DIP-8 | Vstupný buffer ORP |
+| U8 | CA3140AMZ | CMOS op-amp | SOIC-8 | Vstupný buffer ORP |
 | R9 | Rezistor | 4.7MΩ | 0805 | Vstupný bias |
 | C19 | Keramický kondenzátor | 2.2nF | 0805 | VF filter |
 | C20 | Keramický kondenzátor | 1µF | 0805 | Frekvenčná kompenzácia |
@@ -390,8 +390,8 @@ Teplé komponenty (U1, U2, U4) priložené termálnou podložkou k stene boxu.
 | 3 | U3 | LD1117AS33TR | 5V→3.3V/1A | 1 | LDO, SOT-223 |
 | 4 | U4 | L7805ABD2T-TR | 12V→5V (lineárny) | 1 | D2PAK, čistá analóg 5V |
 | 5 | U5 | TPS60400DBVR | 5V→-5V/60mA | 1 | Charge pump, SOT-23-5 |
-| 6 | U6, U8 | CA3140EZ | CMOS op-amp | 2 | DIP-8, pH+ORP buffer |
-| 7 | U7, U9 | TL071IP | JFET op-amp | 2 | DIP-8, pH+ORP výstup |
+| 6 | U6, U8 | CA3140AMZ | CMOS op-amp | 2 | SOIC-8, pH+ORP buffer |
+| 7 | U7, U9 | TL071CDR | JFET op-amp | 2 | SOIC-8, pH+ORP výstup |
 | 8 | U10 | ADS1115IDGSR | 16-bit ADC, I2C | 1 | VSSOP-10 |
 | 9 | U11 | ESP32-WROOM-32E-N4 | MCU modul | 1 | WiFi + BT, 4MB flash |
 | 10 | U12 | LTV-356T | Optočlen | 1 | SOP-4, izolácia relé |
@@ -478,8 +478,8 @@ Všetky aktívne komponenty vybrané v **SMD** prevedení (okrem U1 modulu a RLY
 | 3b | U3 alt. | LDL1117S33R | [TME](https://www.tme.eu/en/details/ldl1117s33r/ldo-fixed-voltage-regulators/stmicroelectronics/) | SOT-223 | STMicro, 3.3V/**1.2A**, novší, nižší dropout |
 | 4 | U4 | L7805ABD2T-TR | [TME](https://www.tme.eu/en/details/l7805abd2t-tr/fixed-voltage-regulators/stmicroelectronics/) | **D2PAK** (SMD) | STMicro, 5V/1.5A, ±2%, ✅ na sklade |
 | 5 | U5 | TPS60400DBVR | [TME](https://www.tme.eu/en/details/tps60400dbvr/voltage-regulators-dc-dc-circuits/texas-instruments/) | SOT-23-5 | TI, charge pump 5V→-5V |
-| 6 | U6, U8 | CA3140EZ | [TME](https://www.tme.eu/en/details/ca3140ez/tht-operational-amplifiers/renesas-intersil/) | **DIP-8** | Renesas, MOSFET input, Zin>1TΩ, ✅ 542 ks na sklade |
-| 7 | U7, U9 | TL071IP | [TME](https://www.tme.eu/en/details/tl071ip/tht-operational-amplifiers/texas-instruments/) | **DIP-8** | TI, JFET op-amp, nižší šum, ✅ 928 ks na sklade |
+| 6 | U6, U8 | CA3140AMZ | [TME](https://www.tme.eu/en/details/ca3140amz/smd-operational-amplifiers/renesas-intersil/) | **SOIC-8** | Renesas, MOSFET input, Zin>1TΩ, SMD verzia |
+| 7 | U7, U9 | TL071CDR | [TME](https://www.tme.eu/en/details/tl071cdr/smd-operational-amplifiers/texas-instruments/) | **SOIC-8** | TI, JFET op-amp, nižší šum, SMD verzia (overiť dostupnosť!) |
 | 8 | U10 | ADS1115IDGSR | [TME](https://www.tme.eu/en/details/ads1115idgsr/a-d-converters-integrated-circuits/texas-instruments/) | VSSOP-10 | TI, 16-bit ADC |
 | 9 | U11 | ESP32-WROOM-32E-N4 | [TME](https://www.tme.eu/en/details/esp32-wroom-32e/iot-wifi-bluetooth-modules/espressif/esp32-wroom-32e-n4/) | Modul SMD | Espressif, 4MB flash |
 | 10 | U12 | LTV-356T | [TME](https://www.tme.eu/en/details/ltv-356t/optocouplers-analog-output/liteon/) | **SMD SOP-4** | Lite-On, náhrada PC817, 3.75kV izol. |
@@ -497,10 +497,10 @@ Všetky aktívne komponenty vybrané v **SMD** prevedení (okrem U1 modulu a RLY
   - **LD1117AS33TR** — overená klasika, 3.3V/1A, SOT-223 ([TME SK link](https://www.tme.eu/sk/details/ld1117as33tr/stabilizatory-napatia-neregulovane-ldo/stmicroelectronics/))
   - **LDL1117S33R** — novší, 3.3V/**1.2A**, nižší dropout (350mV vs 1.1V), odporúčam ak je na sklade
 - **U4 (LM7805):** Použiť SMD verziu **L7805ABD2T-TR** v D2PAK puzdre (±2% tolerancia, 7042 ks na sklade). Pôvodný L7805CD2T-TR má nefunkčný link (404).
-- **U6, U8 (CA3140EZ):** DIP-8 verzia, ✅ 542 ks na sklade TME. SMD verzia (CA3140AMZ) mala 0 ks, preto prechod na THT DIP-8.
+- **U6, U8 (CA3140AMZ):** SOIC-8 SMD verzia, [TME link](https://www.tme.eu/en/details/ca3140amz/smd-operational-amplifiers/renesas-intersil/). Pôvodne DIP-8 (CA3140EZ), zmenené na SMD kvôli kompaktnosti.
 - **U12 (PC817 → LTV-356T):** SMD náhrada optočlena. LTV-356T (Lite-On) je SMD SOP-4, 3.75kV izolácia, kompatibilný pinout. Puzdro sa zmení z DIP-4 na SOP-4.
 - **Q1-Q4 (IRLZ44N):** IRLZ44NSPBF aj IRLZ44ZSPBF vyradené, IRLZ44NSTRLPBF má min. 800 ks. Náhrada: **IRLR2905TRPBF** (DPAK, 55V/30A, logic-level Vgs_th 1-2V, Rds_on 27mΩ). Pre naše záťaže (čerpadlo ~2A, relé ~44mA, externé max ~10A) je 30A viac ako dosť. DPAK je menšie ako D2PAK — treba prispôsobiť footprint!
-- **U7, U9 (TL071IP):** DIP-8 verzia, ✅ 928 ks na sklade TME. TL071IDT (SOIC-8) mala 0 ks, preto prechod na THT DIP-8. TL071 je nižší šum ako TL081.
+- **U7, U9 (TL071CDR):** SOIC-8 SMD verzia, [TME link](https://www.tme.eu/en/details/tl071cdr/smd-operational-amplifiers/texas-instruments/). Overiť dostupnosť! Alternatívy: TL071IDR, TL071ACDR, alebo OPA171AIDR (SOIC-8, kompatibilný pinout).
 - **D3-D6 (SS14):** SS14-DC (DC Components) má 0 ks. Skúsiť **SS14-TSC** (Taiwan Semiconductor) alebo **SS14-E3/61T** (Vishay) — obe SMA puzdro, overiť dostupnosť na TME.
 - **D2 (SS34):** Pôvodný SS34-CDI mal 0 ks. Nahradený **SS34-ONS** (ONSEMI) v SMC puzdre — ✅ 1006 ks na sklade. Pozor: SMC (DO-214AB) je väčší ako SMA, treba prispôsobiť footprint!
 - **D7 (1N4007 → M7):** Použiť **M7** — SMD ekvivalent 1N4007 v SMA puzdre (1kV/1A). Rovnaké parametre.

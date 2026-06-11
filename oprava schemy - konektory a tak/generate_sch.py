@@ -1400,14 +1400,14 @@ def generate_step1():
                                j12_x, j12_y, 0, pin_count=2))
     # Pin 1 (+12V) at (j12_x - 3.81, j12_y) = (126.19, 65)
     # Pin 2 (GND)  at (j12_x - 3.81, j12_y + 2.54) = (126.19, 67.54)
-    # Wire pin 1 to +12V bus — use +12V power symbol directly
-    symbols.append(make_symbol("power:+12V", "#PWR114", "+12V",
-                               j12_x - 3.81, j12_y - 5, 0, pin_count=1))
-    wires.append(make_wire(j12_x - 3.81, j12_y - 5, j12_x - 3.81, j12_y))
-    # Wire pin 2 to GND
-    symbols.append(make_symbol("power:GND", "#PWR115", "GND",
-                               j12_x - 3.81, j12_y + 2.54 + 5, 0, pin_count=1))
-    wires.append(make_wire(j12_x - 3.81, j12_y + 2.54, j12_x - 3.81, j12_y + 2.54 + 5))
+    # Wire pin 1 to +12V bus
+    wires.append(make_wire(j12_x - 3.81, j12_y, j12_x - 3.81, 61.19))
+    wires.append(make_wire(125, 61.19, j12_x - 3.81, 61.19))
+    junctions.append(make_junction(125, 61.19))
+    # Wire pin 2 to GND bus
+    wires.append(make_wire(j12_x - 3.81, j12_y + 2.54, j12_x - 3.81, 68.81))
+    wires.append(make_wire(125, 68.81, j12_x - 3.81, 68.81))
+    junctions.append(make_junction(125, 68.81))
 
     # LED power indicator circuit: +12V → R_LED (1kΩ) → LED → GND
     # Place at right side: R at (140, 61.19), LED at (140, 68.81)
@@ -2054,7 +2054,7 @@ def generate_step5():
     # pin1 connects to signal wire, pin2 to GND
     wires.append(make_wire(d8_x, d8_y - 3.81, d8_x, p1_y))
     junctions.append(make_junction(d8_x, p1_y))
-    symbols.append(make_symbol("power:GND", "#PWR111", "GND",
+    symbols.append(make_symbol("power:GND", "#PWR101", "GND",
                                d8_x, d8_y + 7, 0, pin_count=1))
     wires.append(make_wire(d8_x, d8_y + 3.81, d8_x, d8_y + 7))
 
@@ -2229,7 +2229,7 @@ def generate_step5():
 
     # Pot wiper (pin2) at (r4_x + 3.81, r4_y) → pH_CAL label (offset calibration)
     labels.append(make_label("pH_CAL", r4_x + 3.81 + 2, r4_y))
-    wires.append(make_wire(r4_x + 3.81, r4_y, r4_x + 3.81 + 2, r4_y))
+    wires.append(make_wire(r4_x + 3.81, r4_y, r4_x + 3.81 + 10, r4_y))
 
     # ======== U7: TL071IP (output stage, inverting amplifier) ========
     u7_x = 290
@@ -2295,7 +2295,7 @@ def generate_step5():
     # R8 bottom → pH_CAL (connected to R4 wiper via net label)
     labels.append(make_label("pH_CAL", r8_x + 2, r8_y + 3.81 + 2))
     wires.append(make_wire(r8_x, r8_y + 3.81, r8_x, r8_y + 3.81 + 2))
-    wires.append(make_wire(r8_x, r8_y + 3.81 + 2, r8_x + 2, r8_y + 3.81 + 2))
+    wires.append(make_wire(r8_x, r8_y + 3.81 + 2, r8_x + 10, r8_y + 3.81 + 2))
 
     # U7 V+ → +5V_AN
     symbols.append(make_symbol("power:+5V_AN", "#PWR37", "+5V_AN",
@@ -2335,7 +2335,7 @@ def generate_step5():
 
     # ======== OUTPUT: pH_OUT label ========
     labels.append(make_label("pH_OUT", u7_pin6_x + 2, u7_pin6_y))
-    wires.append(make_wire(u7_pin6_x, u7_pin6_y, u7_pin6_x + 2, u7_pin6_y))
+    wires.append(make_wire(u7_pin6_x, u7_pin6_y, u7_pin6_x + 15, u7_pin6_y))
 
     return lib_symbols, symbols, wires, junctions, labels, texts, no_connects
 
@@ -2385,7 +2385,7 @@ def generate_step6():
                                d9_x, d9_y, 90, pin_count=2))
     wires.append(make_wire(d9_x, d9_y - 3.81, d9_x, p2_y))
     junctions.append(make_junction(d9_x, p2_y))
-    symbols.append(make_symbol("power:GND", "#PWR112", "GND",
+    symbols.append(make_symbol("power:GND", "#PWR102", "GND",
                                d9_x, d9_y + 7, 0, pin_count=1))
     wires.append(make_wire(d9_x, d9_y + 3.81, d9_x, d9_y + 7))
 
@@ -2521,7 +2521,7 @@ def generate_step6():
 
     # Pot R11 wiper (pin2) at (r11_x + 3.81, r11_y) → ORP_CAL label (offset calibration)
     labels.append(make_label("ORP_CAL", r11_x + 3.81 + 2, r11_y))
-    wires.append(make_wire(r11_x + 3.81, r11_y, r11_x + 3.81 + 2, r11_y))
+    wires.append(make_wire(r11_x + 3.81, r11_y, r11_x + 3.81 + 10, r11_y))
 
     # ======== U9: TL071IP (inverting amplifier) ========
     u9_x = 290
@@ -2583,7 +2583,7 @@ def generate_step6():
     # R15 bottom → ORP_CAL (connected to R11 wiper via net label)
     labels.append(make_label("ORP_CAL", r15_x + 2, r15_y + 3.81 + 2))
     wires.append(make_wire(r15_x, r15_y + 3.81, r15_x, r15_y + 3.81 + 2))
-    wires.append(make_wire(r15_x, r15_y + 3.81 + 2, r15_x + 2, r15_y + 3.81 + 2))
+    wires.append(make_wire(r15_x, r15_y + 3.81 + 2, r15_x + 10, r15_y + 3.81 + 2))
 
     # U9 V+ → +5V_AN
     symbols.append(make_symbol("power:+5V_AN", "#PWR49", "+5V_AN",
@@ -2623,7 +2623,7 @@ def generate_step6():
 
     # ======== OUTPUT: ORP_OUT label ========
     labels.append(make_label("ORP_OUT", u9_pin6_x + 2, u9_pin6_y))
-    wires.append(make_wire(u9_pin6_x, u9_pin6_y, u9_pin6_x + 2, u9_pin6_y))
+    wires.append(make_wire(u9_pin6_x, u9_pin6_y, u9_pin6_x + 15, u9_pin6_y))
 
     return lib_symbols, symbols, wires, junctions, labels, texts, no_connects
 
@@ -2759,7 +2759,7 @@ def generate_step7():
     no_connects.append(make_no_connect(ain2_x, ain2_y))
 
     # AIN3 → GND (differential reference for AIN0-AIN3 pH, AIN1-AIN3 ORP)
-    symbols.append(make_symbol("power:GND", "#PWR113", "GND",
+    symbols.append(make_symbol("power:GND", "#PWR100", "GND",
                                ain3_x - 5, ain3_y, 90, pin_count=1))
     wires.append(make_wire(ain3_x - 5, ain3_y, ain3_x, ain3_y))
 
@@ -3161,67 +3161,67 @@ def generate_step8():
 
     # IO1/TX → UART_TX
     labels.append(make_label("UART_TX", rx + lbl_offset, io1_y))
-    wires.append(make_wire(rx, io1_y, rx + lbl_offset, io1_y))
+    wires.append(make_wire(rx, io1_y, rx + lbl_offset + 10, io1_y))
 
     # IO2 → TFT_DC
     labels.append(make_label("TFT_DC", rx + lbl_offset, io2_y))
-    wires.append(make_wire(rx, io2_y, rx + lbl_offset, io2_y))
+    wires.append(make_wire(rx, io2_y, rx + lbl_offset + 10, io2_y))
 
     # IO3/RX → UART_RX
     labels.append(make_label("UART_RX", rx + lbl_offset, io3_y))
-    wires.append(make_wire(rx, io3_y, rx + lbl_offset, io3_y))
+    wires.append(make_wire(rx, io3_y, rx + lbl_offset + 10, io3_y))
 
     # IO4 → TFT_RST
     labels.append(make_label("TFT_RST", rx + lbl_offset, io4_y))
-    wires.append(make_wire(rx, io4_y, rx + lbl_offset, io4_y))
+    wires.append(make_wire(rx, io4_y, rx + lbl_offset + 10, io4_y))
 
     # IO5 → ONEWIRE_DATA
     labels.append(make_label("ONEWIRE_DATA", rx + lbl_offset, io5_y))
-    wires.append(make_wire(rx, io5_y, rx + lbl_offset, io5_y))
+    wires.append(make_wire(rx, io5_y, rx + lbl_offset + 10, io5_y))
 
     # IO12 → voľný (J7) — no label needed, will be in step 10
     labels.append(make_label("GPIO12", rx + lbl_offset, io12_y))
-    wires.append(make_wire(rx, io12_y, rx + lbl_offset, io12_y))
+    wires.append(make_wire(rx, io12_y, rx + lbl_offset + 10, io12_y))
 
     # IO13 → MOSFET3_GATE
     labels.append(make_label("MOSFET3_GATE", rx + lbl_offset, io13_y))
-    wires.append(make_wire(rx, io13_y, rx + lbl_offset, io13_y))
+    wires.append(make_wire(rx, io13_y, rx + lbl_offset + 10, io13_y))
 
     # IO14 → MOSFET4_GATE
     labels.append(make_label("MOSFET4_GATE", rx + lbl_offset, io14_y))
-    wires.append(make_wire(rx, io14_y, rx + lbl_offset, io14_y))
+    wires.append(make_wire(rx, io14_y, rx + lbl_offset + 10, io14_y))
 
     # IO15 → TFT_CS
     labels.append(make_label("TFT_CS", rx + lbl_offset, io15_y))
-    wires.append(make_wire(rx, io15_y, rx + lbl_offset, io15_y))
+    wires.append(make_wire(rx, io15_y, rx + lbl_offset + 10, io15_y))
 
     # IO16 → voľný (J7)
     labels.append(make_label("GPIO16", rx + lbl_offset, io16_y))
-    wires.append(make_wire(rx, io16_y, rx + lbl_offset, io16_y))
+    wires.append(make_wire(rx, io16_y, rx + lbl_offset + 10, io16_y))
 
     # IO17 → voľný (J7)
     labels.append(make_label("GPIO17", rx + lbl_offset, io17_y))
-    wires.append(make_wire(rx, io17_y, rx + lbl_offset, io17_y))
+    wires.append(make_wire(rx, io17_y, rx + lbl_offset + 10, io17_y))
 
     # IO18 → SPI_SCK
     labels.append(make_label("SPI_SCK", rx + lbl_offset, io18_y))
-    wires.append(make_wire(rx, io18_y, rx + lbl_offset, io18_y))
+    wires.append(make_wire(rx, io18_y, rx + lbl_offset + 10, io18_y))
 
     # IO19 → SPI_MISO
     labels.append(make_label("SPI_MISO", rx + lbl_offset, io19_y))
-    wires.append(make_wire(rx, io19_y, rx + lbl_offset, io19_y))
+    wires.append(make_wire(rx, io19_y, rx + lbl_offset + 10, io19_y))
 
     # IO21 → TOUCH_CS
     labels.append(make_label("TOUCH_CS", rx + lbl_offset, io21_y))
-    wires.append(make_wire(rx, io21_y, rx + lbl_offset, io21_y))
+    wires.append(make_wire(rx, io21_y, rx + lbl_offset + 10, io21_y))
 
     # IO22 → voľný (J7)
     labels.append(make_label("GPIO22", rx + lbl_offset, io22_y))
-    wires.append(make_wire(rx, io22_y, rx + lbl_offset, io22_y))
+    wires.append(make_wire(rx, io22_y, rx + lbl_offset + 10, io22_y))
 
     # IO23 → SPI_MOSI
     labels.append(make_label("SPI_MOSI", rx + lbl_offset, io23_y))
-    wires.append(make_wire(rx, io23_y, rx + lbl_offset, io23_y))
+    wires.append(make_wire(rx, io23_y, rx + lbl_offset + 10, io23_y))
 
     # ======== GPIO net labels (left side) ========
     # IO25 → RELAY_CTRL
@@ -3668,7 +3668,7 @@ def generate_step9():
 
     # Collector → MOSFET2_GATE
     labels.append(make_label("MOSFET2_GATE", r29_x + 3, opto_c_y))
-    wires.append(make_wire(r29_x, opto_c_y, r29_x + 3, opto_c_y))
+    wires.append(make_wire(r29_x, opto_c_y, r29_x + 12, opto_c_y))
 
     # ================================================================
     # RLY1: Finder 40.52 relay
@@ -3699,11 +3699,11 @@ def generate_step9():
 
     # NO → AC_L
     labels.append(make_label("AC_L", no_x + 3, no_y))
-    wires.append(make_wire(no_x, no_y, no_x + 3, no_y))
+    wires.append(make_wire(no_x, no_y, no_x + 12, no_y))
 
     # COM → L_OUT
     labels.append(make_label("L_OUT", com_x + 3, com_y))
-    wires.append(make_wire(com_x, com_y, com_x + 3, com_y))
+    wires.append(make_wire(com_x, com_y, com_x + 12, com_y))
 
     # RC snubber: R30 + C29 across COM-NO
     r30_x = rly_x + 22

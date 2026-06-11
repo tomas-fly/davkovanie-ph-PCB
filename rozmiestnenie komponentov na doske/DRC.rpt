@@ -1,0 +1,1134 @@
+** Drc report for ph-verzion-01.kicad_pcb **
+** Created on 2026-06-09T18:31:08 **
+** Report includes: Errors **
+
+** Found 34 DRC violations **
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(107.6800 mm, 112.5000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(107.6800 mm, 113.0000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.0400 mm)
+    Local override; error
+    @(161.3200 mm, 51.8800 mm): PTH plôška 1 [Net-(P1-Signal)] z P1
+    @(161.3200 mm, 49.3400 mm): PTH plôška 2 [GND] z P1
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(107.6800 mm, 113.0000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+    @(107.6800 mm, 113.5000 mm): Plôška 3 [GND] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(107.6800 mm, 113.5000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(107.6800 mm, 114.0000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(107.6800 mm, 114.0000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+    @(107.6800 mm, 114.5000 mm): Plôška 5 [/ORP_OUT] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(111.8800 mm, 114.5000 mm): Plôška 6 [unconnected-(U10-AIN2-Pad6)] z U10 na F.Cu
+    @(111.8800 mm, 114.0000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(111.8800 mm, 114.0000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+    @(111.8800 mm, 113.0000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.1500 mm)
+    Local override; error
+    @(111.8800 mm, 113.0000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+    @(111.8800 mm, 112.5000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+[clearance]: Izolačná medzera porušenia ( odstup/minimálna vzdialenosť 0.2000 mm; aktuálna 0.0400 mm)
+    Local override; error
+    @(161.4500 mm, 104.0000 mm): PTH plôška 1 [Net-(P2-Signal)] z P2
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(82.2500 mm, 82.9800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(82.2500 mm, 81.5800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(81.5500 mm, 83.6800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(81.5500 mm, 82.2800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(81.5500 mm, 80.8800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(80.8500 mm, 82.9800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(80.8500 mm, 81.5800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(80.1500 mm, 83.6800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(80.1500 mm, 82.2800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(80.1500 mm, 80.8800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(79.4500 mm, 82.9800 mm): PTH plôška 39 [GND] z U11
+[drill_out_of_range]: Veľkosť diery je mimo rozsah (obmedzenia z nastavenia dosky min. otvor 0.3000 mm; aktuálny 0.2000 mm)
+    Rule: obmedzenia z nastavenia dosky; error
+    @(79.4500 mm, 81.5800 mm): PTH plôška 39 [GND] z U11
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(161.3200 mm, 51.8800 mm): PTH plôška 1 [Net-(P1-Signal)] z P1
+    @(161.3200 mm, 49.3400 mm): PTH plôška 2 [GND] z P1
+[solder_mask_bridge]: Apertúra zadnej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(161.3200 mm, 51.8800 mm): PTH plôška 1 [Net-(P1-Signal)] z P1
+    @(161.3200 mm, 49.3400 mm): PTH plôška 2 [GND] z P1
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(107.6800 mm, 112.5000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(107.6800 mm, 113.0000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(107.6800 mm, 113.0000 mm): Plôška 2 [unconnected-(U10-ALRT-Pad2)] z U10 na F.Cu
+    @(107.6800 mm, 113.5000 mm): Plôška 3 [GND] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(107.6800 mm, 113.5000 mm): Plôška 3 [GND] z U10 na F.Cu
+    @(107.6800 mm, 114.0000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(161.4500 mm, 104.0000 mm): PTH plôška 1 [Net-(P2-Signal)] z P2
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[solder_mask_bridge]: Apertúra zadnej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(161.4500 mm, 104.0000 mm): PTH plôška 1 [Net-(P2-Signal)] z P2
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(107.6800 mm, 114.0000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+    @(107.6800 mm, 114.5000 mm): Plôška 5 [/ORP_OUT] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(111.8800 mm, 114.5000 mm): Plôška 6 [unconnected-(U10-AIN2-Pad6)] z U10 na F.Cu
+    @(111.8800 mm, 114.0000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(111.8800 mm, 114.0000 mm): Plôška 7 [unconnected-(U10-AIN3-Pad7)] z U10 na F.Cu
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+    @(111.8800 mm, 113.0000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+[solder_mask_bridge]: Apertúra prednej spájkovacej masky premosťuje položky s rozdielnymi signálmi
+    Rule: minimálna šírka spájkovacej masky z nastavení dosky; error
+    @(111.8800 mm, 113.0000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+    @(111.8800 mm, 112.5000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+
+** Found 248 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(31.2000 mm, 73.8000 mm): PTH plôška 1 [+12V] z J12
+    @(41.8375 mm, 109.8000 mm): Plôška 1 [+12V] z R1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(38.7750 mm, 142.9150 mm): Plôška 1 [+12V] z D3 na F.Cu
+    @(42.7750 mm, 142.9150 mm): Plôška 2 [+12V] z D3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.8375 mm, 109.8000 mm): Plôška 1 [+12V] z R1 na F.Cu
+    @(41.9125 mm, 115.0000 mm): Plôška 1 [+12V] z C1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(42.7750 mm, 142.9150 mm): Plôška 2 [+12V] z D3 na F.Cu
+    @(51.6000 mm, 143.0000 mm): Plôška 2 [+12V] z D4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(54.1350 mm, 156.3725 mm): PTH plôška 2 [+12V] z J9
+    @(49.0550 mm, 156.3725 mm): PTH plôška 1 [+12V] z J9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(54.1350 mm, 156.3725 mm): PTH plôška 2 [+12V] z J9
+    @(64.2000 mm, 156.4000 mm): PTH plôška 1 [+12V] z J10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.8000 mm, 143.0000 mm): Plôška 1 [+12V] z D5 na F.Cu
+    @(61.8000 mm, 143.0000 mm): Plôška 2 [+12V] z D5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.8000 mm, 143.0000 mm): Plôška 1 [+12V] z D5 na F.Cu
+    @(51.6000 mm, 143.0000 mm): Plôška 2 [+12V] z D4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(60.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q1 na F.Cu
+    @(41.9125 mm, 115.0000 mm): Plôška 1 [+12V] z C1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(61.8000 mm, 143.0000 mm): Plôška 2 [+12V] z D5 na F.Cu
+    @(60.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(64.2000 mm, 156.4000 mm): PTH plôška 1 [+12V] z J10
+    @(69.2800 mm, 156.4000 mm): PTH plôška 2 [+12V] z J10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67.4000 mm, 143.0000 mm): Plôška 1 [+12V] z D6 na F.Cu
+    @(61.8000 mm, 143.0000 mm): Plôška 2 [+12V] z D5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(69.2800 mm, 156.4000 mm): PTH plôška 2 [+12V] z J10
+    @(67.4000 mm, 143.0000 mm): Plôška 1 [+12V] z D6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.4000 mm, 143.0000 mm): Plôška 2 [+12V] z D6 na F.Cu
+    @(67.4000 mm, 143.0000 mm): Plôška 1 [+12V] z D6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(79.0000 mm, 30.2200 mm): PTH plôška 3 [+12V] z U1
+    @(88.6323 mm, 31.2500 mm): PTH plôška 1 [+12V] z C2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(81.6000 mm, 143.0000 mm): Plôška 2 [+12V] z D7 na F.Cu
+    @(71.4000 mm, 143.0000 mm): Plôška 2 [+12V] z D6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.6323 mm, 31.2500 mm): PTH plôška 1 [+12V] z C2
+    @(89.2500 mm, 57.7500 mm): PTH plôška 1 [+12V] z C7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q3 na F.Cu
+    @(81.6000 mm, 143.0000 mm): Plôška 2 [+12V] z D7 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(89.2500 mm, 57.7500 mm): PTH plôška 1 [+12V] z C7
+    @(102.3500 mm, 58.2100 mm): Plôška 1 [+12V] z U4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(98.8875 mm, 142.6000 mm): Plôška 1 [+12V] z R29 na F.Cu
+    @(102.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.3500 mm, 58.2100 mm): Plôška 1 [+12V] z U4 na F.Cu
+    @(125.8000 mm, 90.4000 mm): Plôška 1 [+12V] z C6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.6750 mm, 27.6250 mm): Plôška 1 [+12V] z U2 na F.Cu
+    @(88.6323 mm, 31.2500 mm): PTH plôška 1 [+12V] z C2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q4 na F.Cu
+    @(88.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q4 na F.Cu
+    @(134.1000 mm, 142.8000 mm): PTH plôška A1 [+12V] z RLY1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.7600 mm, 132.0000 mm): Plôška 2 [+12V] z Q4 na F.Cu
+    @(125.8000 mm, 90.4000 mm): Plôška 1 [+12V] z C6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(139.6800 mm, 159.6000 mm): PTH plôška 17 [+12V] z J7
+    @(134.1000 mm, 142.8000 mm): PTH plôška A1 [+12V] z RLY1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.4000 mm, 122.1000 mm): PTH plôška 3 [GND] z J4
+    @(29.5000 mm, 134.4500 mm): PTH plôška 3 [GND] z J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 146.7000 mm): PTH plôška 3 [GND] z J3
+    @(29.5000 mm, 134.4500 mm): PTH plôška 3 [GND] z J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 159.2000 mm): PTH plôška 3 [GND] z J6
+    @(29.5000 mm, 146.7000 mm): PTH plôška 3 [GND] z J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(31.2000 mm, 68.7200 mm): PTH plôška 2 [GND] z J12
+    @(42.8000 mm, 88.8600 mm): PTH plôška 4 [GND] z J8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(42.8000 mm, 88.8600 mm): PTH plôška 4 [GND] z J8
+    @(41.8625 mm, 104.8000 mm): Plôška 2 [GND] z D1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.8125 mm, 115.0000 mm): Plôška 2 [GND] z C1 na F.Cu
+    @(41.8625 mm, 104.8000 mm): Plôška 2 [GND] z D1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.8125 mm, 115.0000 mm): Plôška 2 [GND] z C1 na F.Cu
+    @(29.4000 mm, 122.1000 mm): PTH plôška 3 [GND] z J4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.2000 mm, 125.6000 mm): Plôška 2 [GND] z R24 na F.Cu
+    @(49.2000 mm, 131.4000 mm): Plôška 2 [GND] z R25 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.2000 mm, 125.6000 mm): Plôška 2 [GND] z R24 na F.Cu
+    @(43.8125 mm, 115.0000 mm): Plôška 2 [GND] z C1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(54.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q1 na F.Cu
+    @(49.2000 mm, 131.4000 mm): Plôška 2 [GND] z R25 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(55.6375 mm, 123.6000 mm): Plôška 2 [GND] z C27 na F.Cu
+    @(61.6375 mm, 123.6000 mm): Plôška 2 [GND] z C28 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(55.6375 mm, 123.6000 mm): Plôška 2 [GND] z C27 na F.Cu
+    @(47.2000 mm, 125.6000 mm): Plôška 2 [GND] z R24 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(61.6375 mm, 123.6000 mm): Plôška 2 [GND] z C28 na F.Cu
+    @(67.6375 mm, 123.6000 mm): Plôška 2 [GND] z C26 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67.6375 mm, 123.6000 mm): Plôška 2 [GND] z C26 na F.Cu
+    @(68.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 90.0000 mm): Plôška 38 [GND] z U11 na F.Cu
+    @(79.4500 mm, 83.6800 mm): Plôška 39 [GND] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(80.4800 mm, 159.6000 mm): PTH plôška 2 [GND] z J2
+    @(89.1125 mm, 142.8000 mm): Plôška 2 [GND] z R26 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q3 na F.Cu
+    @(89.1125 mm, 142.8000 mm): Plôška 2 [GND] z R26 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q3 na F.Cu
+    @(68.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(85.0650 mm, 72.2400 mm): Plôška 15 [GND] z U11 na F.Cu
+    @(82.2500 mm, 80.8800 mm): Plôška 39 [GND] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(87.6000 mm, 45.5000 mm): Plôška 1 [GND] z D2 na F.Cu
+    @(79.0000 mm, 37.8400 mm): PTH plôška 6 [GND] z U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(87.6000 mm, 45.5000 mm): Plôška 1 [GND] z D2 na F.Cu
+    @(91.7500 mm, 57.7500 mm): PTH plôška 2 [GND] z C7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(87.6000 mm, 45.5000 mm): Plôška 1 [GND] z D2 na F.Cu
+    @(93.6323 mm, 31.2500 mm): PTH plôška 2 [GND] z C2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 90.0000 mm): Plôška 1 [GND] z U11 na F.Cu
+    @(82.2500 mm, 83.6800 mm): Plôška 39 [GND] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(95.1125 mm, 142.4000 mm): Plôška 2 [GND] z R27 na F.Cu
+    @(89.1125 mm, 142.8000 mm): Plôška 2 [GND] z R26 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(95.1125 mm, 142.4000 mm): Plôška 2 [GND] z R27 na F.Cu
+    @(96.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(96.4600 mm, 134.2800 mm): Plôška 3 [GND] z Q4 na F.Cu
+    @(111.2500 mm, 130.9300 mm): Plôška 3 [GND] z U12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(98.9500 mm, 77.7500 mm): Plôška 2 [GND] z C8 na F.Cu
+    @(106.8625 mm, 72.0000 mm): Plôška 2 [GND] z U5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(98.9500 mm, 77.7500 mm): Plôška 2 [GND] z C8 na F.Cu
+    @(85.0650 mm, 72.2400 mm): Plôška 15 [GND] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.6750 mm, 31.0250 mm): Plôška 3 [GND] z U2 na F.Cu
+    @(93.6323 mm, 31.2500 mm): PTH plôška 2 [GND] z C2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.6750 mm, 31.0250 mm): Plôška 3 [GND] z U2 na F.Cu
+    @(111.8250 mm, 31.0250 mm): Plôška 3 [GND] z U2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.6750 mm, 34.4250 mm): Plôška 5 [GND] z U2 na F.Cu
+    @(102.6750 mm, 31.0250 mm): Plôška 3 [GND] z U2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(106.8625 mm, 72.0000 mm): Plôška 2 [GND] z U5 na F.Cu
+    @(109.2500 mm, 80.2500 mm): Plôška 2 [GND] z C4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(107.6800 mm, 112.5000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(107.6800 mm, 113.5000 mm): Plôška 3 [GND] z U10 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(107.6800 mm, 112.5000 mm): Plôška 1 [GND] z U10 na F.Cu
+    @(110.7300 mm, 107.5000 mm): Plôška 2 [GND] z C25 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(109.7500 mm, 85.7500 mm): Plôška 2 [GND] z C5 na F.Cu
+    @(109.2500 mm, 80.2500 mm): Plôška 2 [GND] z C4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(109.7500 mm, 85.7500 mm): Plôška 2 [GND] z C5 na F.Cu
+    @(119.0000 mm, 87.0000 mm): Plôška 2 [GND] z C19 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(111.5000 mm, 60.7500 mm): Plôška 2 [GND] z U4 na F.Cu
+    @(106.8625 mm, 72.0000 mm): Plôška 2 [GND] z U5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(116.7500 mm, 130.9300 mm): Plôška 2 [GND] z U12 na F.Cu
+    @(111.2500 mm, 130.9300 mm): Plôška 3 [GND] z U12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(116.7500 mm, 130.9300 mm): Plôška 2 [GND] z U12 na F.Cu
+    @(127.9000 mm, 120.4000 mm): Plôška 2 [GND] z C17 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(118.9500 mm, 72.0000 mm): Plôška 2 [GND] z C12 na F.Cu
+    @(119.0000 mm, 81.0000 mm): Plôška 2 [GND] z C18 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.0000 mm, 87.0000 mm): Plôška 2 [GND] z C19 na F.Cu
+    @(119.0000 mm, 81.0000 mm): Plôška 2 [GND] z C18 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.0000 mm, 87.0000 mm): Plôška 2 [GND] z C19 na F.Cu
+    @(127.7000 mm, 90.4000 mm): Plôška 2 [GND] z C6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.0000 mm, 99.0000 mm): Plôška 2 [GND] z C21 na F.Cu
+    @(127.9000 mm, 96.4000 mm): Plôška 2 [GND] z C13 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.0000 mm, 105.0000 mm): Plôška 2 [GND] z C22 na F.Cu
+    @(119.0000 mm, 99.0000 mm): Plôška 2 [GND] z C21 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.0000 mm, 105.0000 mm): Plôška 2 [GND] z C22 na F.Cu
+    @(110.7300 mm, 107.5000 mm): Plôška 2 [GND] z C25 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.3600 mm, 157.0600 mm): PTH plôška 2 [GND] z J7
+    @(116.7500 mm, 130.9300 mm): Plôška 2 [GND] z U12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(121.9000 mm, 157.0600 mm): PTH plôška 4 [GND] z J7
+    @(119.3600 mm, 157.0600 mm): PTH plôška 2 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(121.9000 mm, 157.0600 mm): PTH plôška 4 [GND] z J7
+    @(124.4400 mm, 157.0600 mm): PTH plôška 6 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.3176 mm, 53.0000 mm): PTH plôška 2 [GND] z C9
+    @(124.5000 mm, 64.0000 mm): PTH plôška 2 [GND] z C10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.7000 mm, 26.7000 mm): Plôška 1 [GND] z U3 na F.Cu
+    @(111.8250 mm, 31.0250 mm): Plôška 3 [GND] z U2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(124.5000 mm, 64.0000 mm): PTH plôška 2 [GND] z C10
+    @(118.9500 mm, 72.0000 mm): Plôška 2 [GND] z C12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(126.9800 mm, 157.0600 mm): PTH plôška 8 [GND] z J7
+    @(124.4400 mm, 157.0600 mm): PTH plôška 6 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.7000 mm, 90.4000 mm): Plôška 2 [GND] z C6 na F.Cu
+    @(127.9000 mm, 96.4000 mm): Plôška 2 [GND] z C13 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.9000 mm, 108.4000 mm): Plôška 2 [GND] z C15 na F.Cu
+    @(119.0000 mm, 105.0000 mm): Plôška 2 [GND] z C22 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.9000 mm, 114.4000 mm): Plôška 2 [GND] z C16 na F.Cu
+    @(127.9000 mm, 120.4000 mm): Plôška 2 [GND] z C17 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.9000 mm, 114.4000 mm): Plôška 2 [GND] z C16 na F.Cu
+    @(127.9000 mm, 108.4000 mm): Plôška 2 [GND] z C15 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.9000 mm, 114.4000 mm): Plôška 2 [GND] z C16 na F.Cu
+    @(152.3125 mm, 112.5500 mm): Plôška 2 [GND] z R12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(128.5000 mm, 41.7500 mm): PTH plôška 2 [GND] z C3
+    @(123.3176 mm, 53.0000 mm): PTH plôška 2 [GND] z C9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(128.5000 mm, 41.7500 mm): PTH plôška 2 [GND] z C3
+    @(123.7000 mm, 26.7000 mm): Plôška 1 [GND] z U3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(129.5200 mm, 157.0600 mm): PTH plôška 10 [GND] z J7
+    @(126.9800 mm, 157.0600 mm): PTH plôška 8 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(132.0600 mm, 157.0600 mm): PTH plôška 12 [GND] z J7
+    @(129.5200 mm, 157.0600 mm): PTH plôška 10 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(132.0600 mm, 157.0600 mm): PTH plôška 12 [GND] z J7
+    @(134.6000 mm, 157.0600 mm): PTH plôška 14 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(139.6800 mm, 157.0600 mm): PTH plôška 18 [GND] z J7
+    @(134.6000 mm, 157.0600 mm): PTH plôška 14 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.2200 mm, 157.0600 mm): PTH plôška 20 [GND] z J7
+    @(139.6800 mm, 157.0600 mm): PTH plôška 18 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.2200 mm, 159.6000 mm): PTH plôška 19 [GND] z J7
+    @(142.2200 mm, 157.0600 mm): PTH plôška 20 [GND] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 60.9500 mm): Plôška 2 [GND] z R5 na F.Cu
+    @(152.3125 mm, 65.9500 mm): Plôška 2 [GND] z R8 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 60.9500 mm): Plôška 2 [GND] z R5 na F.Cu
+    @(166.4000 mm, 56.9600 mm): PTH plôška 2 [GND] z P1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 65.9500 mm): Plôška 2 [GND] z R8 na F.Cu
+    @(152.5200 mm, 85.3000 mm): Plôška 2 [GND] z C23 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 112.5500 mm): Plôška 2 [GND] z R12 na F.Cu
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.5200 mm, 85.3000 mm): Plôška 2 [GND] z C23 na F.Cu
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.5200 mm, 123.5500 mm): Plôška 2 [GND] z C24 na F.Cu
+    @(152.4000 mm, 129.6000 mm): Plôška 2 [GND] z R15 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.5200 mm, 123.5500 mm): Plôška 2 [GND] z C24 na F.Cu
+    @(152.3125 mm, 112.5500 mm): Plôška 2 [GND] z R12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(161.3200 mm, 49.3400 mm): PTH plôška 2 [GND] z P1
+    @(166.4000 mm, 46.8000 mm): PTH plôška 2 [GND] z P1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(166.4000 mm, 56.9600 mm): PTH plôška 2 [GND] z P1
+    @(161.3200 mm, 49.3400 mm): PTH plôška 2 [GND] z P1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(166.5300 mm, 98.9200 mm): PTH plôška 2 [GND] z P2
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(166.5300 mm, 109.0800 mm): PTH plôška 2 [GND] z P2
+    @(161.4500 mm, 101.4600 mm): PTH plôška 2 [GND] z P2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.4000 mm, 117.1000 mm): PTH plôška 1 [+3V3] z J4
+    @(29.5000 mm, 129.4500 mm): PTH plôška 1 [+3V3] z J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 141.7000 mm): PTH plôška 1 [+3V3] z J3
+    @(29.5000 mm, 129.4500 mm): PTH plôška 1 [+3V3] z J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 154.2000 mm): PTH plôška 1 [+3V3] z J6
+    @(29.5000 mm, 141.7000 mm): PTH plôška 1 [+3V3] z J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.8375 mm, 120.6000 mm): Plôška 1 [+3V3] z R19 na F.Cu
+    @(42.8000 mm, 96.4800 mm): PTH plôška 1 [+3V3] z J8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.8375 mm, 125.6000 mm): Plôška 1 [+3V3] z R16 na F.Cu
+    @(41.8375 mm, 120.6000 mm): Plôška 1 [+3V3] z R19 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.8375 mm, 125.6000 mm): Plôška 1 [+3V3] z R16 na F.Cu
+    @(41.8375 mm, 131.6000 mm): Plôška 1 [+3V3] z R17 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(41.8375 mm, 131.6000 mm): Plôška 1 [+3V3] z R17 na F.Cu
+    @(29.5000 mm, 129.4500 mm): PTH plôška 1 [+3V3] z J5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53.7375 mm, 123.6000 mm): Plôška 1 [+3V3] z C27 na F.Cu
+    @(41.8375 mm, 125.6000 mm): Plôška 1 [+3V3] z R16 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65.7375 mm, 123.6000 mm): Plôška 1 [+3V3] z C26 na F.Cu
+    @(71.7750 mm, 123.6000 mm): Plôška 1 [+3V3] z R18 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65.7375 mm, 123.6000 mm): Plôška 1 [+3V3] z C26 na F.Cu
+    @(53.7375 mm, 123.6000 mm): Plôška 1 [+3V3] z C27 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.7750 mm, 123.6000 mm): Plôška 1 [+3V3] z R18 na F.Cu
+    @(77.9400 mm, 159.6000 mm): PTH plôška 1 [+3V3] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.7750 mm, 123.6000 mm): Plôška 1 [+3V3] z R18 na F.Cu
+    @(88.1000 mm, 88.7300 mm): Plôška 2 [+3V3] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 88.7300 mm): Plôška 2 [+3V3] z U11 na F.Cu
+    @(106.8000 mm, 85.7500 mm): Plôška 1 [+3V3] z C5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(106.8000 mm, 85.7500 mm): Plôška 1 [+3V3] z C5 na F.Cu
+    @(123.7000 mm, 29.0000 mm): Plôška 2 [+3V3] z U3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(108.8300 mm, 107.5000 mm): Plôška 1 [+3V3] z C25 na F.Cu
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(108.8300 mm, 107.5000 mm): Plôška 1 [+3V3] z C25 na F.Cu
+    @(106.8000 mm, 85.7500 mm): Plôška 1 [+3V3] z C5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(111.8800 mm, 113.5000 mm): Plôška 8 [+3V3] z U10 na F.Cu
+    @(116.8675 mm, 113.5000 mm): Plôška 1 [+3V3] z R31 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(116.8675 mm, 113.5000 mm): Plôška 1 [+3V3] z R31 na F.Cu
+    @(137.1400 mm, 159.6000 mm): PTH plôška 15 [+3V3] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(130.0000 mm, 29.0000 mm): Plôška 2 [+3V3] z U3 na F.Cu
+    @(123.7000 mm, 29.0000 mm): Plôška 2 [+3V3] z U3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 131.9500 mm): PTH plôška 2 [/ONEWIRE_DATA] z J5
+    @(29.5000 mm, 144.2000 mm): PTH plôška 2 [/ONEWIRE_DATA] z J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 131.9500 mm): PTH plôška 2 [/ONEWIRE_DATA] z J5
+    @(29.4000 mm, 119.6000 mm): PTH plôška 2 [/ONEWIRE_DATA] z J4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(29.5000 mm, 156.7000 mm): PTH plôška 2 [/ONEWIRE_DATA] z J6
+    @(29.5000 mm, 144.2000 mm): PTH plôška 2 [/ONEWIRE_DATA] z J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 78.5700 mm): Plôška 29 [/ONEWIRE_DATA] z U11 na F.Cu
+    @(29.4000 mm, 119.6000 mm): PTH plôška 2 [/ONEWIRE_DATA] z J4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(118.6925 mm, 113.5000 mm): Plôška 2 [/ONEWIRE_DATA] z R31 na F.Cu
+    @(70.6000 mm, 78.5700 mm): Plôška 29 [/ONEWIRE_DATA] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.6625 mm, 131.6000 mm): Plôška 2 [/SCL] z R17 na F.Cu
+    @(111.8800 mm, 112.5000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(111.8800 mm, 112.5000 mm): Plôška 10 [/SCL] z U10 na F.Cu
+    @(88.1000 mm, 76.0300 mm): Plôška 12 [/SCL] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(126.0000 mm, 96.4000 mm): Plôška 1 [Net-(U6-IN-)] z C13 na F.Cu
+    @(152.3125 mm, 70.9500 mm): Plôška 2 [Net-(U6-IN-)] z R2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 70.9500 mm): Plôška 2 [Net-(U6-IN-)] z R2 na F.Cu
+    @(134.1800 mm, 48.0600 mm): PTH plôška 2 [Net-(U6-IN-)] z U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.1800 mm, 50.6000 mm): PTH plôška 3 [Net-(U6-IN+)] z U6
+    @(126.0000 mm, 102.4000 mm): Plôška 1 [Net-(U6-IN+)] z C14 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4875 mm, 44.4500 mm): Plôška 1 [Net-(U6-IN+)] z R3 na F.Cu
+    @(134.1800 mm, 50.6000 mm): PTH plôška 3 [Net-(U6-IN+)] z U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(117.1000 mm, 105.0000 mm): Plôška 1 [-5V_AN] z C22 na F.Cu
+    @(126.0000 mm, 114.4000 mm): Plôška 1 [-5V_AN] z C16 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(126.0000 mm, 114.4000 mm): Plôška 1 [-5V_AN] z C16 na F.Cu
+    @(134.3800 mm, 107.3800 mm): PTH plôška 4 [-5V_AN] z U9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.5875 mm, 78.0000 mm): Plôška 2 [-5V_AN] z FB2 na F.Cu
+    @(134.1800 mm, 71.1400 mm): PTH plôška 4 [-5V_AN] z U7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.5875 mm, 78.0000 mm): Plôška 2 [-5V_AN] z FB2 na F.Cu
+    @(117.1000 mm, 81.0000 mm): Plôška 1 [-5V_AN] z C18 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.1800 mm, 71.1400 mm): PTH plôška 4 [-5V_AN] z U7
+    @(134.1800 mm, 53.1400 mm): PTH plôška 4 [-5V_AN] z U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 91.3800 mm): PTH plôška 4 [-5V_AN] z U8
+    @(127.5875 mm, 78.0000 mm): Plôška 2 [-5V_AN] z FB2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 107.3800 mm): PTH plôška 4 [-5V_AN] z U9
+    @(134.3800 mm, 91.3800 mm): PTH plôška 4 [-5V_AN] z U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.6200 mm, 123.5500 mm): Plôška 1 [-5V_AN] z C24 na F.Cu
+    @(134.3800 mm, 107.3800 mm): PTH plôška 4 [-5V_AN] z U9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(141.8000 mm, 50.6000 mm): PTH plôška 6 [Net-(U6-OUT)] z U6
+    @(127.9000 mm, 102.4000 mm): Plôška 2 [Net-(U6-OUT)] z C14 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4000 mm, 33.9500 mm): Plôška 1 [Net-(U6-OUT)] z R7 na F.Cu
+    @(141.8000 mm, 50.6000 mm): PTH plôška 6 [Net-(U6-OUT)] z U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(106.8625 mm, 71.0500 mm): Plôška 1 [+5V_AN] z U5 na F.Cu
+    @(127.5250 mm, 72.0000 mm): Plôška 2 [+5V_AN] z FB1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(117.1000 mm, 99.0000 mm): Plôška 1 [+5V_AN] z C21 na F.Cu
+    @(126.0000 mm, 108.4000 mm): Plôška 1 [+5V_AN] z C15 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(126.0000 mm, 108.4000 mm): Plôška 1 [+5V_AN] z C15 na F.Cu
+    @(126.0000 mm, 120.4000 mm): Plôška 1 [+5V_AN] z C17 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(141.8000 mm, 66.0600 mm): PTH plôška 7 [+5V_AN] z U7
+    @(127.5250 mm, 72.0000 mm): Plôška 2 [+5V_AN] z FB1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(141.8000 mm, 66.0600 mm): PTH plôška 7 [+5V_AN] z U7
+    @(141.8000 mm, 48.0600 mm): PTH plôška 7 [+5V_AN] z U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 86.3000 mm): PTH plôška 7 [+5V_AN] z U8
+    @(150.6200 mm, 85.3000 mm): Plôška 1 [+5V_AN] z C23 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 86.3000 mm): PTH plôška 7 [+5V_AN] z U8
+    @(141.8000 mm, 66.0600 mm): PTH plôška 7 [+5V_AN] z U7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 102.3000 mm): PTH plôška 7 [+5V_AN] z U9
+    @(142.0000 mm, 86.3000 mm): PTH plôška 7 [+5V_AN] z U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 102.3000 mm): PTH plôška 7 [+5V_AN] z U9
+    @(126.0000 mm, 108.4000 mm): Plôška 1 [+5V_AN] z C15 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.3750 mm, 131.4000 mm): Plôška 1 [Net-(Q2-G)] z R25 na F.Cu
+    @(47.2000 mm, 136.6000 mm): Plôška 2 [Net-(Q2-G)] z R21 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(68.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q2-G)] z Q2 na F.Cu
+    @(47.3750 mm, 131.4000 mm): Plôška 1 [Net-(Q2-G)] z R25 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.6625 mm, 120.6000 mm): Plôška 2 [Net-(U11-IO0)] z R19 na F.Cu
+    @(70.6000 mm, 73.4900 mm): Plôška 25 [Net-(U11-IO0)] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.4000 mm, 72.0000 mm): Plôška 1 [Net-(C10-~-Pad1)] z FB1 na F.Cu
+    @(122.0000 mm, 64.0000 mm): PTH plôška 1 [Net-(C10-~-Pad1)] z C10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(127.5875 mm, 84.0000 mm): Plôška 2 [Net-(C10-~-Pad1)] z L2 na F.Cu
+    @(125.4000 mm, 72.0000 mm): Plôška 1 [Net-(C10-~-Pad1)] z FB1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(97.0500 mm, 77.7500 mm): Plôška 1 [Net-(U4-OUT)] z C8 na F.Cu
+    @(125.4625 mm, 84.0000 mm): Plôška 1 [Net-(U4-OUT)] z L2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.3500 mm, 63.2900 mm): Plôška 3 [Net-(U4-OUT)] z U4 na F.Cu
+    @(97.0500 mm, 77.7500 mm): Plôška 1 [Net-(U4-OUT)] z C8 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(120.8176 mm, 53.0000 mm): PTH plôška 1 [Net-(U4-OUT)] z C9
+    @(102.3500 mm, 63.2900 mm): Plôška 3 [Net-(U4-OUT)] z U4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(102.6750 mm, 32.7250 mm): Plôška 4 [+5V] z U2 na F.Cu
+    @(111.5500 mm, 46.0000 mm): Plôška 2 [+5V] z L1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(107.3500 mm, 80.2500 mm): Plôška 1 [+5V] z C4 na F.Cu
+    @(137.1400 mm, 157.0600 mm): PTH plôška 16 [+5V] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(111.5500 mm, 46.0000 mm): Plôška 2 [+5V] z L1 na F.Cu
+    @(107.3500 mm, 80.2500 mm): Plôška 1 [+5V] z C4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.0000 mm, 41.7500 mm): PTH plôška 1 [+5V] z C3
+    @(123.7000 mm, 31.3000 mm): Plôška 3 [+5V] z U3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.0000 mm, 41.7500 mm): PTH plôška 1 [+5V] z C3
+    @(111.5500 mm, 46.0000 mm): Plôška 2 [+5V] z L1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(59.7375 mm, 123.6000 mm): Plôška 1 [Net-(U11-EN)] z C28 na F.Cu
+    @(73.6000 mm, 123.6000 mm): Plôška 2 [Net-(U11-EN)] z R18 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(73.6000 mm, 123.6000 mm): Plôška 2 [Net-(U11-EN)] z R18 na F.Cu
+    @(88.1000 mm, 87.4600 mm): Plôška 3 [Net-(U11-EN)] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 86.1900 mm): Plôška 4 [/GPIO36] z U11 na F.Cu
+    @(134.6000 mm, 159.6000 mm): PTH plôška 13 [/GPIO36] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 84.9200 mm): Plôška 5 [/TOUCH_IRQ] z U11 na F.Cu
+    @(110.9600 mm, 159.6000 mm): PTH plôška 14 [/TOUCH_IRQ] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 83.6500 mm): Plôška 6 [/GPIO34] z U11 na F.Cu
+    @(129.5200 mm, 159.6000 mm): PTH plôška 9 [/GPIO34] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 82.3800 mm): Plôška 7 [/GPIO35] z U11 na F.Cu
+    @(132.0600 mm, 159.6000 mm): PTH plôška 11 [/GPIO35] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 81.1100 mm): Plôška 8 [/TFT_BL] z U11 na F.Cu
+    @(95.7200 mm, 159.6000 mm): PTH plôška 8 [/TFT_BL] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.3750 mm, 109.6000 mm): Plôška 1 [/MOSFET1_GATE] z R20 na F.Cu
+    @(88.1000 mm, 79.8400 mm): Plôška 9 [/MOSFET1_GATE] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 78.5700 mm): Plôška 10 [/RELAY_CTRL] z U11 na F.Cu
+    @(104.4875 mm, 142.6000 mm): Plôška 1 [/RELAY_CTRL] z R28 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 77.3000 mm): Plôška 11 [/SDA] z U11 na F.Cu
+    @(43.6625 mm, 125.6000 mm): Plôška 2 [/SDA] z R16 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(111.8800 mm, 113.0000 mm): Plôška 9 [/SDA] z U10 na F.Cu
+    @(88.1000 mm, 77.3000 mm): Plôška 11 [/SDA] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.3750 mm, 120.4000 mm): Plôška 1 [/MOSFET4_GATE] z R23 na F.Cu
+    @(88.1000 mm, 74.7600 mm): Plôška 13 [/MOSFET4_GATE] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.1000 mm, 73.4900 mm): Plôška 14 [/GPIO12] z U11 na F.Cu
+    @(119.3600 mm, 159.6000 mm): PTH plôška 1 [/GPIO12] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(47.3750 mm, 115.0000 mm): Plôška 1 [/MOSFET3_GATE] z R22 na F.Cu
+    @(83.7950 mm, 72.2400 mm): Plôška 16 [/MOSFET3_GATE] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(74.9050 mm, 72.2400 mm): Plôška 23 [/TFT_CS] z U11 na F.Cu
+    @(83.0200 mm, 159.6000 mm): PTH plôška 3 [/TFT_CS] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(73.6350 mm, 72.2400 mm): Plôška 24 [/TFT_DC] z U11 na F.Cu
+    @(88.1000 mm, 159.6000 mm): PTH plôška 5 [/TFT_DC] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 74.7600 mm): Plôška 26 [/TFT_RST] z U11 na F.Cu
+    @(85.5600 mm, 159.6000 mm): PTH plôška 4 [/TFT_RST] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 76.0300 mm): Plôška 27 [/GPIO16] z U11 na F.Cu
+    @(121.9000 mm, 159.6000 mm): PTH plôška 3 [/GPIO16] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 77.3000 mm): Plôška 28 [/GPIO17] z U11 na F.Cu
+    @(124.4400 mm, 159.6000 mm): PTH plôška 5 [/GPIO17] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 79.8400 mm): Plôška 30 [/SPI_SCK] z U11 na F.Cu
+    @(93.1800 mm, 159.6000 mm): PTH plôška 7 [/SPI_SCK] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93.1800 mm, 159.6000 mm): PTH plôška 7 [/SPI_SCK] z J2
+    @(100.8000 mm, 159.6000 mm): PTH plôška 10 [/SPI_SCK] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 81.1100 mm): Plôška 31 [/SPI_MISO] z U11 na F.Cu
+    @(98.2600 mm, 159.6000 mm): PTH plôška 9 [/SPI_MISO] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(98.2600 mm, 159.6000 mm): PTH plôška 9 [/SPI_MISO] z J2
+    @(108.4200 mm, 159.6000 mm): PTH plôška 13 [/SPI_MISO] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 83.6500 mm): Plôška 33 [/TOUCH_CS] z U11 na F.Cu
+    @(103.3400 mm, 159.6000 mm): PTH plôška 11 [/TOUCH_CS] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(42.8000 mm, 91.4000 mm): PTH plôška 3 [/UART_RX] z J8
+    @(70.6000 mm, 84.9200 mm): Plôška 34 [/UART_RX] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(42.8000 mm, 93.9400 mm): PTH plôška 2 [/UART_TX] z J8
+    @(70.6000 mm, 86.1900 mm): Plôška 35 [/UART_TX] z U11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 87.4600 mm): Plôška 36 [/GPIO22] z U11 na F.Cu
+    @(126.9800 mm, 159.6000 mm): PTH plôška 7 [/GPIO22] z J7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(70.6000 mm, 88.7300 mm): Plôška 37 [/SPI_MOSI] z U11 na F.Cu
+    @(90.6400 mm, 159.6000 mm): PTH plôška 6 [/SPI_MOSI] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(90.6400 mm, 159.6000 mm): PTH plôška 6 [/SPI_MOSI] z J2
+    @(105.8800 mm, 159.6000 mm): PTH plôška 12 [/SPI_MOSI] z J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(110.2000 mm, 142.6000 mm): Plôška 2 [Net-(C29-~-Pad1)] z R30 na F.Cu
+    @(123.4000 mm, 143.6000 mm): PTH plôška 1 [Net-(C29-~-Pad1)] z C29
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.5800 mm, 74.8800 mm): PTH plôška 1 [/AC_L] z F1
+    @(43.5800 mm, 69.8000 mm): PTH plôška 1 [/AC_L] z F1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.5800 mm, 74.8800 mm): PTH plôška 1 [/AC_L] z F1
+    @(31.2000 mm, 109.4000 mm): PTH plôška 1 [/AC_L] z J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(61.6133 mm, 68.2500 mm): PTH plôška 2 [/AC_L] z MOV1
+    @(43.5800 mm, 69.8000 mm): PTH plôška 1 [/AC_L] z F1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.4000 mm, 128.6000 mm): PTH plôška 2 [/AC_L] z C29
+    @(134.1000 mm, 117.8000 mm): PTH plôška 14 [/AC_L] z RLY1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.4000 mm, 128.6000 mm): PTH plôška 2 [/AC_L] z C29
+    @(61.6133 mm, 68.2500 mm): PTH plôška 2 [/AC_L] z MOV1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(59.9800 mm, 75.7500 mm): PTH plôška 1 [/L_OUT] z MOV1
+    @(31.2000 mm, 91.5600 mm): PTH plôška 1 [/L_OUT] z J11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(112.0250 mm, 142.6000 mm): Plôška 1 [/L_OUT] z R30 na F.Cu
+    @(134.1000 mm, 122.8000 mm): PTH plôška 11 [/L_OUT] z RLY1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(112.0250 mm, 142.6000 mm): Plôška 1 [/L_OUT] z R30 na F.Cu
+    @(59.9800 mm, 75.7500 mm): PTH plôška 1 [/L_OUT] z MOV1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(31.2000 mm, 86.4800 mm): PTH plôška 2 [/AC_N] z J11
+    @(28.0000 mm, 53.0800 mm): PTH plôška 2 [/AC_N] z U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(31.2000 mm, 104.3200 mm): PTH plôška 2 [/AC_N] z J1
+    @(31.2000 mm, 86.4800 mm): PTH plôška 2 [/AC_N] z J11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(31.2000 mm, 81.4000 mm): PTH plôška 3 [/PE] z J11
+    @(31.2000 mm, 99.2400 mm): PTH plôška 3 [/PE] z J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(49.0250 mm, 136.6000 mm): Plôška 1 [/MOSFET2_GATE] z R21 na F.Cu
+    @(100.7125 mm, 142.6000 mm): Plôška 2 [/MOSFET2_GATE] z R29 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.7125 mm, 142.6000 mm): Plôška 2 [/MOSFET2_GATE] z R29 na F.Cu
+    @(111.2500 mm, 133.4700 mm): Plôška 4 [/MOSFET2_GATE] z U12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 44.4500 mm): Plôška 2 [Net-(R3-~-Pad2)] z R3 na F.Cu
+    @(152.6500 mm, 50.9500 mm): Plôška 1 [Net-(R3-~-Pad2)] z R4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 104.8400 mm): PTH plôška 3 [Net-(U9-IN+)] z U9
+    @(150.4450 mm, 118.0500 mm): Plôška 1 [Net-(U9-IN+)] z R13 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.2700 mm, 91.0500 mm): Plôška 2 [Net-(U9-IN+)] z R14 na F.Cu
+    @(134.3800 mm, 104.8400 mm): PTH plôška 3 [Net-(U9-IN+)] z U9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 104.8400 mm): PTH plôška 6 [/ORP_OUT] z U9
+    @(107.6800 mm, 114.5000 mm): Plôška 5 [/ORP_OUT] z U10 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.2700 mm, 118.0500 mm): Plôška 2 [/ORP_OUT] z R13 na F.Cu
+    @(142.0000 mm, 104.8400 mm): PTH plôška 6 [/ORP_OUT] z U9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.6075 mm, 79.8000 mm): Plôška 1 [Net-(P2-Signal)] z R9 na F.Cu
+    @(161.4500 mm, 104.0000 mm): PTH plôška 1 [Net-(P2-Signal)] z P2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(49.0250 mm, 125.6000 mm): Plôška 1 [Net-(Q1-G)] z R24 na F.Cu
+    @(54.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q1-G)] z Q1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(49.2000 mm, 109.6000 mm): Plôška 2 [Net-(Q1-G)] z R20 na F.Cu
+    @(49.0250 mm, 125.6000 mm): Plôška 1 [Net-(Q1-G)] z R24 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 102.3000 mm): PTH plôška 2 [Net-(U9-IN-)] z U9
+    @(150.5750 mm, 129.6000 mm): Plôška 1 [Net-(U9-IN-)] z R15 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(94.4000 mm, 45.5000 mm): Plôška 2 [Net-(D2-A)] z D2 na F.Cu
+    @(104.9500 mm, 46.0000 mm): Plôška 1 [Net-(D2-A)] z L1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(104.9500 mm, 46.0000 mm): Plôška 1 [Net-(D2-A)] z L1 na F.Cu
+    @(102.6750 mm, 29.3250 mm): Plôška 2 [Net-(D2-A)] z U2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93.2875 mm, 142.4000 mm): Plôška 1 [Net-(Q4-G)] z R27 na F.Cu
+    @(96.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q4-G)] z Q4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(96.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q4-G)] z Q4 na F.Cu
+    @(49.2000 mm, 120.4000 mm): Plôška 2 [Net-(Q4-G)] z R23 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4875 mm, 70.9500 mm): Plôška 1 [Net-(P1-Signal)] z R2 na F.Cu
+    @(161.3200 mm, 51.8800 mm): PTH plôška 1 [Net-(P1-Signal)] z P1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q3-G)] z Q3 na F.Cu
+    @(49.2000 mm, 115.0000 mm): Plôška 2 [Net-(Q3-G)] z R22 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(87.2875 mm, 142.8000 mm): Plôška 1 [Net-(Q3-G)] z R26 na F.Cu
+    @(82.4600 mm, 129.7200 mm): Plôška 1 [Net-(Q3-G)] z Q3 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.1500 mm, 50.9500 mm): Plôška 3 [Net-(R4-Pad3)] z R4 na F.Cu
+    @(150.4875 mm, 60.9500 mm): Plôška 1 [Net-(R4-Pad3)] z R5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(74.7600 mm, 132.0000 mm): Plôška 2 [Net-(D4-K)] z Q2 na F.Cu
+    @(47.6000 mm, 143.0000 mm): Plôška 1 [Net-(D4-K)] z D4 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77.6000 mm, 143.0000 mm): Plôška 1 [Net-(D4-K)] z D7 na F.Cu
+    @(74.7600 mm, 132.0000 mm): Plôška 2 [Net-(D4-K)] z Q2 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77.6000 mm, 143.0000 mm): Plôška 1 [Net-(D4-K)] z D7 na F.Cu
+    @(141.6000 mm, 142.8000 mm): PTH plôška A2 [Net-(D4-K)] z RLY1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(51.2000 mm, 69.8000 mm): PTH plôška 2 [Net-(U1-AC_L)] z F1
+    @(28.0000 mm, 48.0000 mm): PTH plôška 1 [Net-(U1-AC_L)] z U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(51.2000 mm, 74.8800 mm): PTH plôška 2 [Net-(U1-AC_L)] z F1
+    @(51.2000 mm, 69.8000 mm): PTH plôška 2 [Net-(U1-AC_L)] z F1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(106.3125 mm, 142.6000 mm): Plôška 2 [Net-(U12-A)] z R28 na F.Cu
+    @(116.7500 mm, 133.4700 mm): Plôška 1 [Net-(U12-A)] z U12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(117.1000 mm, 87.0000 mm): Plôška 1 [Net-(U8-IN-)] z C19 na F.Cu
+    @(134.3800 mm, 86.3000 mm): PTH plôška 2 [Net-(U8-IN-)] z U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 86.3000 mm): PTH plôška 2 [Net-(U8-IN-)] z U8
+    @(152.4325 mm, 79.8000 mm): Plôška 2 [Net-(U8-IN-)] z R9 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.1800 mm, 68.6000 mm): PTH plôška 3 [Net-(U7-IN+)] z U7
+    @(150.4875 mm, 38.9500 mm): Plôška 1 [Net-(U7-IN+)] z R6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4875 mm, 38.9500 mm): Plôška 1 [Net-(U7-IN+)] z R6 na F.Cu
+    @(152.2250 mm, 33.9500 mm): Plôška 2 [Net-(U7-IN+)] z R7 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(43.6625 mm, 109.8000 mm): Plôška 2 [Net-(D1-K)] z R1 na F.Cu
+    @(43.7375 mm, 104.8000 mm): Plôška 1 [Net-(D1-K)] z D1 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.1500 mm, 103.1000 mm): Plôška 3 [Net-(R11-Pad3)] z R11 na F.Cu
+    @(150.4875 mm, 112.5500 mm): Plôška 1 [Net-(R11-Pad3)] z R12 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(97.0500 mm, 72.0000 mm): Plôška 1 [Net-(U5-C+)] z C11 na F.Cu
+    @(106.8625 mm, 72.9500 mm): Plôška 3 [Net-(U5-C+)] z U5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(98.9500 mm, 72.0000 mm): Plôška 2 [Net-(U5-C-)] z C11 na F.Cu
+    @(109.1375 mm, 72.9500 mm): Plôška 4 [Net-(U5-C-)] z U5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.1800 mm, 66.0600 mm): PTH plôška 2 [Net-(U7-IN-)] z U7
+    @(150.4875 mm, 65.9500 mm): Plôška 1 [Net-(U7-IN-)] z R8 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(107.6800 mm, 114.0000 mm): Plôška 4 [/pH_OUT] z U10 na F.Cu
+    @(141.8000 mm, 68.6000 mm): PTH plôška 6 [/pH_OUT] z U7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(141.8000 mm, 68.6000 mm): PTH plôška 6 [/pH_OUT] z U7
+    @(152.3125 mm, 38.9500 mm): Plôška 2 [/pH_OUT] z R6 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.3125 mm, 96.5500 mm): Plôška 2 [Net-(R10-~-Pad2)] z R10 na F.Cu
+    @(152.6500 mm, 103.1000 mm): Plôška 1 [Net-(R10-~-Pad2)] z R11 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(134.3800 mm, 88.8400 mm): PTH plôška 3 [Net-(U8-IN+)] z U8
+    @(117.1000 mm, 93.0000 mm): Plôška 1 [Net-(U8-IN+)] z C20 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4875 mm, 96.5500 mm): Plôška 1 [Net-(U8-IN+)] z R10 na F.Cu
+    @(134.3800 mm, 88.8400 mm): PTH plôška 3 [Net-(U8-IN+)] z U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.0000 mm, 88.8400 mm): PTH plôška 6 [Net-(U8-OUT)] z U8
+    @(119.0000 mm, 93.0000 mm): Plôška 2 [Net-(U8-OUT)] z C20 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.4450 mm, 91.0500 mm): Plôška 1 [Net-(U8-OUT)] z R14 na F.Cu
+    @(142.0000 mm, 88.8400 mm): PTH plôška 6 [Net-(U8-OUT)] z U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(117.0500 mm, 72.0000 mm): Plôška 1 [Net-(U5-OUT)] z C12 na F.Cu
+    @(109.1375 mm, 71.0500 mm): Plôška 5 [Net-(U5-OUT)] z U5 na F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.4625 mm, 78.0000 mm): Plôška 1 [Net-(U5-OUT)] z FB2 na F.Cu
+    @(117.0500 mm, 72.0000 mm): Plôška 1 [Net-(U5-OUT)] z C12 na F.Cu
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
